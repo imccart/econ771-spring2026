@@ -62,20 +62,20 @@ While there is no official "attendance" credit, everyone is expected to attend a
 
 There are four main assignments throughout the semester. I describe each assignment below, with more detail provided on our [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments). 
 
-### Research Proposals
+### Research Proposals and Final Plans
 
-You will submit four research proposals throughout the semester. These are short, 1-2 page documents that outline a problem/motivation, a related research question, potential data to help answer this question, and a proposed empirical strategy. The goal of these proposals is to help you develop your own research ideas and to get feedback from me and your classmates. After you've received feedback on your proposals, you will develop the best of these proposals into a more complete research plan. Details of the research proposal and plans are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website.
+You will submit three research proposals throughout the semester. These are short, 1-2 page documents that outline a problem/motivation, a related research question, potential data to help answer this question, and a proposed empirical strategy. The goal of these proposals is to help you develop your own research ideas and to get feedback from me and your classmates. 
 
-Please select a date to present your research proposals on the **Proposals** tab of the Google Sheet [here](https://docs.google.com/spreadsheets/d/19LovendEZg3Qk_5Wgy-we_9owO8sPnseU5blbik86MI/edit?usp=sharing) no later than **Friday, January 26**. Note that even though the presentations are spread out over three weeks for each proposal, everyone has the same due date.
+Toward the end of the semester, I will meet with each of you (one-on-one) to discuss your proposals. Based on that feedback, you will develop one of these proposals into a more complete research plan. Details of the research proposal and plans are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website.
+
 
 ### Presentations
 
-You will present four papers throughout the course of the semester. Please note your selected papers and class dates on the **Presentations** tab of the Google Sheet [here](https://docs.google.com/spreadsheets/d/19LovendEZg3Qk_5Wgy-we_9owO8sPnseU5blbik86MI/edit?usp=sharing) no later than **Friday, January 26**. If you do not select papers by then, I will assign you papers randomly. The list of potential papers to present and details of the expectations for each presentation are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website.
+You will present four papers throughout the course of the semester. Please note your selected papers and class dates on the **Presentations** tab of our shared Google Sheet no later than **Friday, January 16**. If you do not select papers by then, I'll have to assign papers unilaterally. The list of potential papers to present and details of the expectations for each presentation are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website.
 
 ### Empirical Exercises
 
-There is an applied component of this course where we spend some time with a real-life causal inference question. These will require some of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on **Canvas**. There are four possible empirical exercises, from which you must choose one. Please note your selections no later than **Thursday, January 29**. 
-
+There is an applied component of this course where we spend some time with a real-life causal inference question. These will require some of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on **Canvas**, or simply through the paper's replication package online. There are four possible empirical exercises, from which you must choose one. Please note your selections no later than **Thursday, January 29**. 
 
 ### Important Deadlines
 
@@ -83,10 +83,10 @@ This section is just to highlight important dates for assignments throughout the
 
    - **Select Papers to Present** no later than **January 20**: Note the papers you plan to present on the **Presentations** tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.
    - **Select Empirical Exercise** no later than **January 29**: Note your selection on the **Exercises** tab of our shared Google Sheet. No more than two students per exercise.
-   - The first round of **Research Proposals and Presentations** is due by class time on **February 5**
-   - The second round of **Research Proposals and Presentations** is due by class time on **February 26**
-   - The third round of **Research Proposals and Presentations** is due by class time on **March 26**
-   - The fourth and final round of **Research Proposals and Presentations** is due by class time on **April 16**
+   - The first **Research Proposal** is due on **February 5**
+   - The second **Research Proposal** is due on **February 26**
+   - The **Excellence Blueprint** is due on **March 17**
+   - The third **Research Proposal** is due on **March 26**
    - **Final Research Plans** are due on **April 21** and will be presented in class on **April 21 and April 23**   
    - **Empirical Exercises** are due on **April 23**
 
@@ -94,7 +94,7 @@ This section is just to highlight important dates for assignments throughout the
 
    - **40%** for research proposals (10% for each proposal and 10% for the research plan)
    - **20%** for empirical exercises
-   - **20%** for referee report
+   - **20%** for excellence blueprint
    - **20%** for presentations of selected papers (5% each)
 
 Letter grades will be assigned at the end of the course based on total score achieved:

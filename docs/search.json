@@ -53,14 +53,14 @@
     "href": "syllabus.html#assignments-and-grading",
     "title": "Syllabus",
     "section": "Assignments and Grading",
-    "text": "Assignments and Grading\nThere are four main assignments throughout the semester. I describe each assignment below, with more detail provided on our assignments page.\n\nResearch Proposals\nYou will submit four research proposals throughout the semester. These are short, 1-2 page documents that outline a problem/motivation, a related research question, potential data to help answer this question, and a proposed empirical strategy. The goal of these proposals is to help you develop your own research ideas and to get feedback from me and your classmates. After you’ve received feedback on your proposals, you will develop the best of these proposals into a more complete research plan. Details of the research proposal and plans are available on the assignments page of our class website.\nPlease select a date to present your research proposals on the Proposals tab of the Google Sheet here no later than Friday, January 26. Note that even though the presentations are spread out over three weeks for each proposal, everyone has the same due date.\n\n\nPresentations\nYou will present four papers throughout the course of the semester. Please note your selected papers and class dates on the Presentations tab of the Google Sheet here no later than Friday, January 26. If you do not select papers by then, I will assign you papers randomly. The list of potential papers to present and details of the expectations for each presentation are available on the assignments page of our class website.\n\n\nEmpirical Exercises\nThere is an applied component of this course where we spend some time with a real-life causal inference question. These will require some of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on Canvas. There are four possible empirical exercises, from which you must choose one. Please note your selections no later than Thursday, January 29.\n\n\nImportant Deadlines\nThis section is just to highlight important dates for assignments throughout the semester. Note that late assignments will receive an automatic 5% reduction in the grade for each day the assignment is turned in after the due date.\n\nSelect Papers to Present no later than January 20: Note the papers you plan to present on the Presentations tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.\nSelect Empirical Exercise no later than January 29: Note your selection on the Exercises tab of our shared Google Sheet. No more than two students per exercise.\nThe first round of Research Proposals and Presentations is due by class time on February 5\nThe second round of Research Proposals and Presentations is due by class time on February 26\nThe third round of Research Proposals and Presentations is due by class time on March 26\nThe fourth and final round of Research Proposals and Presentations is due by class time on April 16\nFinal Research Plans are due on April 21 and will be presented in class on April 21 and April 23\n\nEmpirical Exercises are due on April 23"
+    "text": "Assignments and Grading\nThere are four main assignments throughout the semester. I describe each assignment below, with more detail provided on our assignments page.\n\nResearch Proposals and Final Plans\nYou will submit three research proposals throughout the semester. These are short, 1-2 page documents that outline a problem/motivation, a related research question, potential data to help answer this question, and a proposed empirical strategy. The goal of these proposals is to help you develop your own research ideas and to get feedback from me and your classmates.\nToward the end of the semester, I will meet with each of you (one-on-one) to discuss your proposals. Based on that feedback, you will develop one of these proposals into a more complete research plan. Details of the research proposal and plans are available on the assignments page of our class website.\n\n\nPresentations\nYou will present four papers throughout the course of the semester. Please note your selected papers and class dates on the Presentations tab of our shared Google Sheet no later than Friday, January 16. If you do not select papers by then, I’ll have to assign papers unilaterally. The list of potential papers to present and details of the expectations for each presentation are available on the assignments page of our class website.\n\n\nEmpirical Exercises\nThere is an applied component of this course where we spend some time with a real-life causal inference question. These will require some of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on Canvas, or simply through the paper’s replication package online. There are four possible empirical exercises, from which you must choose one. Please note your selections no later than Thursday, January 29.\n\n\nImportant Deadlines\nThis section is just to highlight important dates for assignments throughout the semester. Note that late assignments will receive an automatic 5% reduction in the grade for each day the assignment is turned in after the due date.\n\nSelect Papers to Present no later than January 20: Note the papers you plan to present on the Presentations tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.\nSelect Empirical Exercise no later than January 29: Note your selection on the Exercises tab of our shared Google Sheet. No more than two students per exercise.\nThe first Research Proposal is due on February 5\nThe second Research Proposal is due on February 26\nThe Excellence Blueprint is due on March 17\nThe third Research Proposal is due on March 26\nFinal Research Plans are due on April 21 and will be presented in class on April 21 and April 23\n\nEmpirical Exercises are due on April 23"
   },
   {
     "objectID": "syllabus.html#final-grades",
     "href": "syllabus.html#final-grades",
     "title": "Syllabus",
     "section": "Final grades",
-    "text": "Final grades\n\n40% for research proposals (10% for each proposal and 10% for the research plan)\n20% for empirical exercises\n20% for referee report\n20% for presentations of selected papers (5% each)\n\nLetter grades will be assigned at the end of the course based on total score achieved: (A = 100-93%, A- = 92.99-90%, B+ = 89.99-87%, B = 86.99-83%, B- = 82.99-80%, C+ = 79.99-77%, C = 76.99-73%, C- = 72.99-70%, D+ = 69.99-67%, D = 66.99-60%, F = 60% or less)"
+    "text": "Final grades\n\n40% for research proposals (10% for each proposal and 10% for the research plan)\n20% for empirical exercises\n20% for excellence blueprint\n20% for presentations of selected papers (5% each)\n\nLetter grades will be assigned at the end of the course based on total score achieved: (A = 100-93%, A- = 92.99-90%, B+ = 89.99-87%, B = 86.99-83%, B- = 82.99-80%, C+ = 79.99-77%, C = 76.99-73%, C- = 72.99-70%, D+ = 69.99-67%, D = 66.99-60%, F = 60% or less)"
   },
   {
     "objectID": "slides/class9.html",
@@ -782,5 +782,65 @@
     "title": "A Quick Primer on Diff-in-Diff",
     "section": "4. Expectations",
     "text": "4. Expectations\n\nPDF should be more like a report than a research notebook (code goes in the repo, not in the report)\nSeparate your analysis from your writing (perhaps by cleaning and then saving your workspace, and importing it into your markdown doc)\nTables and Figures should be near-publication quality, with clean and clear variable names, axes, labels, etc.\nSpend time on good workflow and professional looking products…you can re-use all of this code and workflow for the rest of your career!"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#research-proposals",
+    "href": "assignments/index.html#research-proposals",
+    "title": "Assignments",
+    "section": "Research Proposals",
+    "text": "Research Proposals\nYou’ll submit three proposals thoughout the semester. Each proposal should consist of four parts, explained in more detail here, and is worth 10 points toward your final grade. The written proposal should be 2 pages, double-spaced, 12-point font, and 1-inch margins.\nThink of the research proposal as a more informed version of brainstorming. This should be something for which you’ve given some serious thought but where you haven’t yet started any analysis. You at least have some idea of the data you’d like to use, where to find it, and how to use it (i.e., you have some identification strategy and estimation method in mind). The purpose of the proposal is to develop and idea sufficiently far before receiving feedback.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#research-plans",
+    "href": "assignments/index.html#research-plans",
+    "title": "Assignments",
+    "section": "Research Plans",
+    "text": "Research Plans\nYour research plan consists of five parts, explained in more detail here. This is an extension of the research proposal where you consider the value-added of your work relative to the existing literature. Essentially, the research plan is your research proposal plus a literature review. You should take your best research proposal, based on feedback from me (and possibly your peers and classmates), and develop a slightly longer three-page report (double-spaced, 12-point font, 1-inch margins).\nThe research plan is worth 10 points toward your final grade (2 points per section of the report). It is due via Canvas by April 21. You will also need to develop a short 15 minute presentation for your proposal. We’ll spend the final two class days discussing your research plans and how best to turn them into papers!",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#paper-presentations",
+    "href": "assignments/index.html#paper-presentations",
+    "title": "Assignments",
+    "section": "Paper Presentations",
+    "text": "Paper Presentations\nYou will present four academic papers throughout the course of the semester. The list of potential papers for any given day is on the class schedule, with additional details here. Please note your selected papers and class dates on the Presentations tab of our shared Google Sheet (link availabel on Canvas) no later than January 20. Each presentation is worth 5 points toward your final grade.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#empirical-exercises",
+    "href": "assignments/index.html#empirical-exercises",
+    "title": "Assignments",
+    "section": "Empirical Exercises",
+    "text": "Empirical Exercises\nThere are four prepared empirical exercises. Three of the excercises focus on central causal inference strategies (difference-in-differences, instrumental variables, or regression discontinuity), and the fourth exercise considers the analysis of competition in healthcare, including demand estimation. You must select one exercise to complete throughout the semester no later than January 29, and note your selection on the Exercises tab of our shared Google Sheet. No more than two students per exercise.\nEach exercise requires a good amount of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive folder, the link to which is on Canvas, or via the paper’s online replication package. For more details on each exercise and on the requirements for submission, see here.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#excellence-blueprint",
+    "href": "assignments/index.html#excellence-blueprint",
+    "title": "Assignments",
+    "section": "“Excellence” Blueprint",
+    "text": "“Excellence” Blueprint\nThe objective of this assignment is to move beyond critiquing flaws and instead develop an appreciation for very high quality academic writing and research execution. You will analyze a recently published, high-impact health economics paper, dissecting not only its substantive contribution and rigor but also the writing, narrative, and presentation that secured its placement in a top-tier journal. Your final blueprint should be no longer than 4 pages and is due on March 17.\nYour analysis must answer the core question: What specific choices, in both research design and articulation, warrant this paper’s strong publication and reputation? In answering this question, please divide your report into two sections:\n\nThe Science: Address the paper’s substance and fit within the literature. This section should detail what the paper contributes and how its methods stand up to scrutiny.\n\nNovelty and Contribution: Clearly articulate the paper’s central research question. What specific gap in the literature does it fill? What is the single most important new insight this work provides to the field of health economics?\nMethodological Excellence: Analyze the core empirical strategy. What choices (e.g., data selection, identification strategy, or estimator) demonstrate methodological rigor? Why is the chosen method appropriate in this case?\nEngagement with Literature: Assess how the authors position their work. Identify two key papers the authors successfully build upon or challenge, and explain how the introduction and discussion sections integrate the new findings into the existing scholarly conversation.\n\nThe Art: Analyze the paper’s execution and its persuasive power. This section should detail how the authors guide the reader and present their findings clearly.\n\nIntroduction and Hook: Dissect the first two pages. How does the paper successfully motivate the question and establish its importance to both academics and policymakers? Pinpoint two specific sentences or paragraphs that are highly effective in hooking the reader and explain why they work.\nClarity and Structure: Evaluate the overall narrative flow. How do the authors simplify and present complex econometric analyses? Identify specific structural elements (e.g., headings, figures, tables) that enhance clarity and guide the reader through the evidence without sacrificing technical precision.\nThe Policy Takeaway: Analyze the conclusion and/or discussion sections. How do the authors move from specific empirical findings to a broader, impactful policy implication? Explain how the discussion ensures the paper’s findings are memorable and actionable.",
+    "crumbs": [
+      "Assignments"
+    ]
   }
 ]
