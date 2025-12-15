@@ -1483,6 +1483,7 @@ title("de Chaisemartin and D'Haultfoeuille (2020)") xlabel(-3(1)4)) stub_lag(Eff
 **R**(not the same as in **Stata**)
 ```{r}
 #| results: hide
+#| eval: false
 #| echo: TRUE
 
 library(DIDmultiplegt)
@@ -1510,6 +1511,7 @@ mod.ch <- did_multiplegt(df=reg.dat, Y="perc_unins", G="State", T="year", D="tre
 ```{r}
 #| code-fold: true
 #| code-summary: "R Code"
+#| eval: false
 
 library(broom)
 # Create a tidier for "multiplegt" objects

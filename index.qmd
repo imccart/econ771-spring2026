@@ -60,7 +60,7 @@ options(digits = 3, width = 120,
 
 An economics PhD course exploring the industrial organization of healthcare markets in the U.S., focusing on health insurance, physician agency, healthcare pricing and competition, information disclosure, physician learning, and waste.
 
-Spring 2024<br>
+Spring 2026<br>
 Department of Economics<br>
 Emory University<br>
 **Follow us!** [{{< fa brands twitter >}}](https://twitter.com/emoryeconomics), [{{< fa brands linkedin >}}](https://www.linkedin.com/company/emory-university-department-of-economics), [{{< fa brands facebook >}}](https://www.facebook.com/EmoryEcon/), and [{{< fa brands instagram >}}](https://www.instagram.com/econemory/)
@@ -82,7 +82,7 @@ Emory University<br>
 ## Instructor
 
 {{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com)<br>
-{{< fa university >}} R. Rollins, R432<br>
+{{< fa university >}} R. Rollins, R418<br>
 {{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)<br>
 {{< fa brands twitter >}} [\@ianhealthecon](https://twitter.com/ianhealthecon)<br>
 {{< fa calendar-check >}} [Schedule an appointment](https://mccarthy-meetings.youcanbook.me/)
@@ -94,11 +94,10 @@ Emory University<br>
 
 ## Course Details
 
-{{< fa calendar-alt >}} 1-17-2024 to 4-29-2024<br>
-{{< fa calendar >}} Monday, Wednesday, Friday<br>
-{{< fa clock >}} 11:30am to 12:45pm M/W<br>
-{{< fa clock >}} 11:30am to 12:20pm Friday<br>
-{{< fa university >}} Woodruff Library 874
+{{< fa calendar-alt >}} 1-13-2026 to 4-23-2026<br>
+{{< fa calendar >}} Tuesday, Thursday<br>
+{{< fa clock >}} 10:00am to 11:15am T/Th<br>
+{{< fa university >}} Ignatius Few 129
 
 :::
 
