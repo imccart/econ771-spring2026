@@ -1,14 +1,19 @@
 ---
-title: "Information and Provider Response"
+title: "Bargaining and Hospital Pricing"
 ---
 
-We often think of the effects of information on patient choice, but information can also affect provider behavior. In the context of quality information, we can think of two channels through which information can affect provider behavior. First, information can affect the behavior of providers in the market in which the information is released. Second, information can affect the behavior of providers in markets to which patients are referred. More generally, there are general equilibrium effects from information disclosure. We'll discuss these areas in today's class.
+While reduced-form merger studies provide compelling evidence that consolidation raises hospital prices, they are less informative about the mechanisms through which prices are set and how alternative market structures would affect outcomes. To address these questions, a large literature models hospital prices as the outcome of bilateral bargaining between hospitals and insurers. In these models, negotiated prices depend on the relative bargaining power of each side, the value of inclusion in insurer networks, and the availability of alternative providers and plans.
 
-### Response from Providers in Own-Quality
-@kolstad2013 considers how public reporting of individual surgeon performance impacts their work quality, focusing on intrinsic motivation factors. The study finds that while public reporting does not significantly alter overall performance, it leads to a modest improvement in the performance of surgeons at the lower end of the quality spectrum. This suggests that the intrinsic motivation to maintain reputation and self-esteem, rather than external incentives, plays a key role in how surgeons respond to public performance data.
+The bargaining framework provides a structural interpretation of hospital pricing that links market structure, network design, and prices in a unified way. By explicitly modeling negotiations, these approaches allow researchers to simulate counterfactual scenarios—such as mergers that have not occurred, changes in network inclusion, or regulatory interventions—and to decompose price effects into changes in bargaining leverage versus underlying costs or demand. This makes bargaining models particularly attractive for policy analysis, despite their stronger assumptions relative to reduced-form designs.
 
-### Response from Providers in Referrals
-@epstein2010 examines the impact of publicly available surgeon report cards on the referral behavior of cardiologists. The authors find that cardiologists tend to refer patients to surgeons with better performance scores, indicating a significant influence of report cards on referral decisions. This shift in referral patterns underscores the role of report cards in guiding professional decision-making and potentially influencing the quality of patient care.
+We introduce this literature by focusing on empirical models that estimate negotiated prices and bargaining parameters using detailed claims and network data. These papers illustrate how bargaining power varies across hospitals and insurers, how market concentration affects negotiated outcomes, and how structural models complement reduced-form evidence from merger retrospectives. Together, they provide the analytical foundation for understanding hospital pricing in modern healthcare markets.
 
-### Equilibrium Response
-@brown2019 explores how the availability of price information in healthcare affects market equilibrium. The study finds that increased transparency in healthcare pricing leads to lower prices and higher quality of care, as providers compete on both price and quality dimensions. This suggests that price transparency can effectively influence healthcare market dynamics, benefiting consumers through more competitive and efficient healthcare options.
+Potential papers for presentation today include:
+
+- @gowrisankaran2015 — a canonical model of insurer–hospital bargaining and negotiated prices
+- @lewis2015 — evidence on bargaining power and system-level pricing effects
+- @ho2017 — integration of bargaining models with insurance market structure
+
+
+
+

@@ -1,14 +1,14 @@
 ---
-title: "Healthcare Variation and Physician Agency"
+title: "Physician Agency"
 ---
 
-Module 2 covers physician agency. I like to motivate the study of physician agency with a discussion of healthcare variation, which is the basic empirical fact that healthcare utilization varies substantially across and even within geographic areas. Such variation exists in part due to demand-side factors but also due to supply-side factors, of which physician agency plays a central role. As such, we'll first introduce the evidence on variation in healthcare and then turn to some background on physician agency.
+A central empirical fact motivating the study of physician agency is the substantial variation in healthcare utilization and spending across geographic areas and providers. Early work documenting small-area variation showed that patients with similar observable characteristics receive markedly different levels and types of care depending on where they live and which physicians they see (@wennberg1973; @wennberg2003). While some of this variation reflects differences in patient health and preferences, a large literature demonstrates that supply-side factors play an important role, raising questions about how treatment decisions are made in environments characterized by asymmetric information and physician discretion.
 
-## Healthcare variation
-The presence of variation in healthcare utilization and spending is well documented. The purpose of this part of the class will be to present some basic descriptive statistics in this area. The question of "how much" of this variation is due to demand vs. supply-side factors will be discussed in our next class.
+Physician agency provides a unifying framework for understanding these patterns. Physicians act as agents for patients, but they typically have discretion over diagnostic and treatment choices and face incentives that may not be perfectly aligned with patient welfare. Classic conceptual work formalizes this agency problem and emphasizes how physician objectives, information, and institutional constraints shape care delivery (@mcguire2000). More recent empirical research builds on this framework to quantify the extent to which physicians contribute to observed variation in healthcare use, often exploiting patient or physician mobility to separate demand-side factors from physician practice styles (@finkelstein2016; @badinski2023).
 
-## Physician agency
-With variation in healthcare utilization and spending in mind, we'll turn to the question of why such variation exists. The answer to this question is complex, but one important factor is physician agency. We'll discuss the concept of physician agency and then turn to some empirical evidence on the topic, most of which addresses the question of whether physicians respond to financial incentives. But more recent work also considers other dimensions of physician agency, such as referral decisions, ogranizational structure, and the underlying payment model. Ultimately, these mechanisms boil down to financial incentives, but they aren't always as explicit as being paid more for one thing versus another.
+Together, this body of work highlights physician agency as a key mechanism linking institutional features of healthcare markets to real differences in treatment intensity and patient outcomes. It also provides a foundation for subsequent discussions of how financial and non-financial incentives, as well as organizational structure, shape physician behavior.
 
+Potential papers for presentation today include:
 
-
+- @finkelstein2016 — separating demand- and supply-side sources of healthcare variation
+- @badinski2023 — the role of physicians in explaining geographic variation in utilization

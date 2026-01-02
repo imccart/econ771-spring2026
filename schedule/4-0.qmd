@@ -1,7 +1,15 @@
 ---
-title: "Background on Information Disclosure"
+title: "Understanding Hospital Competition"
 ---
 
-Given the prevalence of information problems in healthcare and health insurance, it seems natural to ask how the disclosure of more information might change the behavior of patients and providers. Module 4 covers this issue. We'll spend today discussing some of the relevant policy issues related to disclosure, in particular the publication of health insurance plan information, hospital and physician quality information, and hospital price information. 
+A central challenge in studying hospital pricing is that competition in healthcare operates very differently than in standard goods markets. Hospitals provide highly differentiated services, patients are largely insulated from prices at the point of care, and prices are determined through bilateral negotiations between hospitals and insurers rather than posted prices. Physician referral patterns, insurer network design, and regulatory constraints further complicate how demand responds to prices and how market power is exercised. As a result, familiar notions of competition and marginal-cost pricing must be adapted to fit the institutional realities of hospital markets.
 
-For an excellent background on quality disclosure, please see @dranove2010. There's also a literature on the unintended consequences of price disclosure where price disclosure might actually increase prices. See @albaek1997 and more recently @luco2019 as some examples of that research.
+The literature on hospital competition develops frameworks for understanding how these institutional features shape prices, quality, and welfare. Rather than focusing solely on patient choice, this work emphasizes bargaining between hospitals and insurers, the role of outside options created by network inclusion, and the importance of market definition in differentiated product markets. Early contributions established that hospital market structure is closely linked to prices and outcomes, while later work refined empirical strategies and theoretical models to better capture negotiated pricing and strategic interaction.
+
+We introduce this literature by drawing on survey and review papers that synthesize the key mechanisms underlying hospital competition and market power. These readings clarify why consolidation has the potential to raise prices even in nonprofit settings, why standard concentration measures can be misleading, and how institutional details matter for both empirical measurement and policy analysis. This foundation provides the context for the next classes, which examine reduced-form evidence on hospital mergers and structural models of insurer–hospital bargaining.
+
+Potential papers for presentation today include:
+
+- @dranove2000 — a foundational overview of competition and market power in healthcare markets
+- @gaynor2003 — early conceptual and empirical analysis of hospital competition
+- @gaynor2015jel — a comprehensive synthesis of theory and evidence on hospital competition and pricing

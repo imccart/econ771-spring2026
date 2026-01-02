@@ -1,12 +1,12 @@
 ---
-title: "Information Disclosure"
+title: "Hospital Competition and Pricing"
 ---
 
-Module 4 covers information disclosure, both in terms of quality and prices. A broad list of relevant papers is in the drop-down list below.
+Module 4 examines competition and pricing in hospital markets. We study how market structure, bargaining relationships, and organizational form shape hospital prices, quality, and strategic behavior. The readings span foundational work on hospital market power and price determination, reduced-form evidence on the effects of hospital mergers, and structural models of insurer–hospital bargaining used to evaluate counterfactual market outcomes. The module also covers recent research on cross-market mergers and vertical integration, highlighting how system-level organization and ownership arrangements alter competitive incentives beyond local markets. Together, these papers emphasize the central role of market power and contracting institutions in shaping prices and welfare in healthcare markets, and provide a bridge between physician behavior and insurer–provider interactions later in the course. Below is a drop-down list of papers most relevant for this module.
 
 ```{=html}
 <details>
     <summary>List of Key Papers (click to expand)</summary>
-    <iframe src="information-bib.html" width="100%" height="600px"></iframe>
+    <iframe src="competition-bib.html" width="100%" height="600px"></iframe>
 </details>
 ```

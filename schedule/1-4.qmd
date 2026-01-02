@@ -1,15 +1,19 @@
 ---
-title: "Adverse Selection"
+title: "Public Insurance Design"
 ---
 
-The goal for today's class is to understand the role of adverse selection in health insurance markets. Again, there is a lot of work in this space, and we can't talk about everything! Focus areas and selected papers for this class are listed below.
+Public insurance programs in the U.S. increasingly rely on private insurers to deliver coverage, most notably through Medicare Advantage and Medicaid managed care. These programs are built around the idea of **managed competition**, in which insurers compete for enrollees under regulated payment, subsidy, and risk-adjustment schemes. A central question in this literature is whether competition in these settings benefits consumers or instead generates rents for insurers, depending on how program rules are designed.
 
-### Pricing and Adverse Selection
-One of the fundamental barriers to an efficient health insurance market is adverse selection. Adverse selection occurs when consumers with different risk profiles purchase different insurance plans. This can lead to a situation where the average cost of care for a given plan is higher than the average premium, which is not sustainable for insurers. This is a problem because it can lead to a situation where no insurer is willing to offer a plan at a price that consumers are willing to pay. We'll discuss @bundorf2012 and @einav2010qje as examples of research inthis area. These papers discuss and implement some of the standard tools and current results in the study of health insurance premiums and adverse selection. 
+One strand of this literature studies **subsidy design, pass-through, and insurer incentives** in public insurance markets. Empirical evidence from Medicare Advantage shows that poorly designed subsidies may be incompletely passed through to consumers, leading to higher insurer profits rather than lower premiums. These papers highlight the importance of benchmark rules, bidding incentives, and regulatory constraints in shaping equilibrium outcomes (@cabral2018; @curto2021).
 
-### Mitigating Adverse Selection
-While the prior papers discuss the role of adverse selection on pricing, they don't necessarily offer any explicit solutions to the adverse selection problem. We'll discuss @handel2013, @handel2015, and @handel2019 as examples of papers that consider adverse selection and potential unintended consequences of policy interventions. The papers demonstrate that while adverse selection is a fundamental challenge in health insurance markets, its manifestations and solutions are diverse and complex. 
+A related strand examines **public versus private provision of health insurance**, reflecting growing interest in the consequences of privatization within public programs. As enrollment in Medicaid managed care and Medicare Advantage has expanded, researchers have studied how private provision affects costs, access, and consumer outcomes relative to traditional public insurance. This work emphasizes tradeoffs between efficiency, selection, and administrative complexity, and remains an active area of research (@layton2019; @macambira2023).
 
-### Adverse Selection and Insurance Networks
-Again on the area of adverse selection, we'll discuss @shepard2022 in class. This paper considers the interplay between hospital network competition and adverse selection, focusing on the Massachusetts health insurance exchange. The authors advance the literature on health insurance markets by introducing the concept of hospital network competition into the discussion of adverse selection. Traditionally, studies have focused on premiums, plan benefits, and individual consumer attributes in analyzing adverse selection. This paper broadens this perspective by showing that the networks of hospitals associated with insurance plans are also crucial in shaping consumer behavior and the overall dynamics of adverse selection in the market. This novel approach enriches the understanding of the multifaceted nature of health insurance markets and highlights the importance of considering a broader range of factors in studying these markets.
+Finally, recent work explores **new directions in expanding access and affordability** in health insurance markets, often motivated by ongoing policy debates. These papers evaluate reforms aimed at improving coverage and affordability, with a focus on welfare implications and distributional effects, and highlight open questions about how best to design insurance systems that balance access, cost, and efficiency (@geddes2023; @curto2023).
+
+Potential papers for presentation today include
+
+- @cabral2018 — subsidies, pass-through, and insurer incentives in Medicare Advantage
+- @curto2021 — competition and consumer outcomes in regulated insurance markets
+- @layton2019 — public versus private provision in health insurance
+- @geddes2023 or @curto2023 — expanding access and affordability
 

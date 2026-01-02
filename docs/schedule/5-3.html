@@ -8,7 +8,7 @@
 
 <meta name="description" content="PhD Course on the Economics of Healthcare">
 
-<title>Learning by Doing – Health Economics II</title>
+<title>Price Transparency – Health Economics II</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -90,14 +124,14 @@ div.csl-indent {
 }</script>
 
 
-<meta property="og:title" content="Learning by Doing – Health Economics II">
+<meta property="og:title" content="Price Transparency – Health Economics II">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://econ771s24.classes.ianmccarthyecon.com//files/econ771-logo.png">
 <meta property="og:site_name" content="Health Economics II">
 <meta property="og:locale" content="en_US">
 <meta property="og:image:height" content="1024">
 <meta property="og:image:width" content="512">
-<meta name="twitter:title" content="Learning by Doing – Health Economics II">
+<meta name="twitter:title" content="Price Transparency – Health Economics II">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://econ771s24.classes.ianmccarthyecon.com//files/econ771-logo.png">
 <meta name="twitter:creator" content="@ianhealthecon">
@@ -156,23 +190,15 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#bias-and-priors" id="toc-bias-and-priors" class="nav-link active" data-scroll-target="#bias-and-priors">Bias and Priors</a></li>
-  <li><a href="#skill-accumulation" id="toc-skill-accumulation" class="nav-link" data-scroll-target="#skill-accumulation">Skill Accumulation</a></li>
-  <li><a href="#learning-failures" id="toc-learning-failures" class="nav-link" data-scroll-target="#learning-failures">Learning Failures</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Learning by Doing</h1>
+<h1 class="title">Price Transparency</h1>
 </div>
 
 
@@ -189,32 +215,35 @@ div.csl-indent {
 </header>
 
 
-<p>Physician “learning by doing” specifically refers to the acquisition of expertise and improvement in clinical skills that occur through direct patient care. This contrasts with other forms of physician learning covered previously, as it involves a process of personal skill development and decision-making refinement that occurs over time as a result of repeated practice and exposure to a variety of clinical situations. We’ll discuss the following topics and papers for today’s class:</p>
-<section id="bias-and-priors" class="level3">
-<h3 class="anchored" data-anchor-id="bias-and-priors">Bias and Priors</h3>
-<p><span class="citation" data-cites="comin2022">Comin, Skinner, and Staiger (<a href="#ref-comin2022" role="doc-biblioref">2022</a>)</span> examines the role of perceived versus actual skill in the adoption of new medical technologies, specifically implantable cardiac defibrillators (ICDs). It introduces a Bayesian framework that contrasts the use of technology based on perceived skill against the outcomes dependent on actual skill. This model is applied to study variations in ICD adoption across hospitals from 2002 to 2013, finding that perception bias accounts for a significant portion of the adoption rate differences. Importantly, the study highlights how learning about this bias in perception can accurately predict declines in technology use, suggesting that overconfidence in perceived skill plays a crucial role in technology adoption decisions in healthcare​.</p>
-</section>
-<section id="skill-accumulation" class="level3">
-<h3 class="anchored" data-anchor-id="skill-accumulation">Skill Accumulation</h3>
-<p><span class="citation" data-cites="gong2018">Gong (<a href="#ref-gong2018" role="doc-biblioref">2018</a>)</span> combines two important dimensions of learning: Bayesian learning, in which the physician updates beliefs about treatment effectiveness for different patients, and learning by doing, which enhances surgical skills. A dynamic structural model is developed and estimated, focusing on the context of brain aneurysm treamtent. The paper contributes to the learning literature by quantifying how “learning by doing” and Bayesian updating shape treatment choices, offering insights into how these learning mechanisms affect the diffusion of new medical technologies and treatment success​.</p>
-</section>
-<section id="learning-failures" class="level3">
-<h3 class="anchored" data-anchor-id="learning-failures">Learning Failures</h3>
-<p>Of course, there is no guarantee that physicians learn much from experience. <span class="citation" data-cites="singh2021">Singh (<a href="#ref-singh2021" role="doc-biblioref">2021</a>)</span> considers this in the context of negative outcomes following childbirth. She finds that, instead of making each delivery decision based on evidence and individual patient circumstances, doctors are influenced by the outcomes of their immediately preceding cases. This reliance on heuristics, particularly following complications in a prior delivery, represents a deviation from evidence-based decision-making.</p>
+<p>Good catch — <strong><span class="citation" data-cites="grennan2020">Grennan and Swanson (<a href="#ref-grennan2020" role="doc-biblioref">2020</a>)</span> absolutely belongs here</strong>, and it actually <em>strengthens</em> this day conceptually.</p>
+<p>The key is to position it as <strong>price transparency in bargaining environments</strong>, not just posted-price transparency to consumers.</p>
+<p>Here’s the <strong>revised Day 4</strong>, with Grennan–Swanson integrated cleanly.</p>
+<hr>
+<div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Price Transparency"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Unlike most goods markets, prices in healthcare are typically determined through negotiation rather than posted prices, and are often opaque to patients, providers, and even market participants themselves. Recent policy efforts aimed at increasing price transparency seek to reduce this opacity by making prices observable, with the goal of promoting competition and lowering spending. Whether transparency achieves these goals depends critically on how price information enters bargaining, demand, and strategic interaction.</p>
+<p>The literature on price transparency emphasizes that disclosure can have ambiguous effects in markets with imperfect competition. Transparency may shift patient demand or referral patterns, but it can also alter bargaining positions, outside options, and negotiated prices between firms. As a result, transparency can intensify competition in some settings while facilitating coordination or redistributing surplus in others. Understanding these effects requires attention to equilibrium responses and institutional detail.</p>
+<p>We introduce this literature by focusing on empirical work that studies how price information affects outcomes in bargaining and competitive environments. These papers highlight when transparency improves efficiency and when it may instead change who captures surplus without lowering prices. This class concludes the module by emphasizing transparency as a mechanism that reshapes strategic interaction, rather than as a uniformly pro-competitive policy.</p>
+<p>Potential papers for presentation today include:</p>
+<ul>
+<li><span class="citation" data-cites="grennan2020">Grennan and Swanson (<a href="#ref-grennan2020" role="doc-biblioref">2020</a>)</span> — a canonical analysis of how transparency affects negotiated prices and bargaining power</li>
+<li><span class="citation" data-cites="christensen2020">Christensen, Floyd, and Maffett (<a href="#ref-christensen2020" role="doc-biblioref">2020</a>)</span> — evidence on price transparency regulation and healthcare prices</li>
+<li><span class="citation" data-cites="brown2019">Brown (<a href="#ref-brown2019" role="doc-biblioref">2019</a>)</span> — equilibrium effects of healthcare price information</li>
+</ul>
 
 
 
-</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-comin2022" class="csl-entry" role="listitem">
-Comin, Diego A., Jonathan S. Skinner, and Douglas O. Staiger. 2022. <span>“Overconfidence and <span>Technology</span> <span>Adoption</span> in <span>Health</span> <span>Care</span>.”</span> Working {Paper}. Working <span>Paper</span> <span>Series</span>. National Bureau of Economic Research. <a href="https://doi.org/10.3386/w30345">https://doi.org/10.3386/w30345</a>.
+<div id="ref-brown2019" class="csl-entry" role="listitem">
+Brown, Zach Y. 2019. <span>“Equilibrium <span>Effects</span> of <span>Health</span> <span>Care</span> <span>Price</span> <span>Information</span>.”</span> <em>The Review of Economics and Statistics</em> 101 (4): 699–712. <a href="https://doi.org/10.1162/rest_a_00765">https://doi.org/10.1162/rest_a_00765</a>.
 </div>
-<div id="ref-gong2018" class="csl-entry" role="listitem">
-Gong, Qing. 2018. <span>“Physician <span>Learning</span> and <span>Treatment</span> <span>Choices</span> <span>Evidence</span> from <span>Brain</span> <span>Aneurysms</span>.”</span> Working {Paper}. University of North Carolina at Chapel Hill.
+<div id="ref-christensen2020" class="csl-entry" role="listitem">
+Christensen, Hans B., Eric Floyd, and Mark Maffett. 2020. <span>“The <span>Only</span> <span>Prescription</span> <span>Is</span> <span>Transparency</span>: <span>The</span> <span>Effect</span> of <span>Charge</span>-<span>Price</span>-<span>Transparency</span> <span>Regulation</span> on <span>Healthcare</span> <span>Prices</span>.”</span> <em>Management Science</em> 66 (7): 2861–82. <a href="https://doi.org/10.1287/mnsc.2019.3330">https://doi.org/10.1287/mnsc.2019.3330</a>.
 </div>
-<div id="ref-singh2021" class="csl-entry" role="listitem">
-Singh, Manasvini. 2021. <span>“Heuristics in the Delivery Room.”</span> <em>Science</em>, October. <a href="https://doi.org/10.1126/science.abc9818">https://doi.org/10.1126/science.abc9818</a>.
+<div id="ref-grennan2020" class="csl-entry" role="listitem">
+Grennan, Matthew, and Ashley Swanson. 2020. <span>“Transparency and Negotiated Prices: <span>The</span> Value of Information in Hospital-Supplier Bargaining.”</span> <em>Journal of Political Economy</em> 128 (4): 1234–68.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

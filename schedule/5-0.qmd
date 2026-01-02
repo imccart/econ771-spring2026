@@ -1,5 +1,12 @@
 ---
-title: "Background on Physician Learning"
+title: "Basics of Information Disclosure"
 ---
 
-Module 5 covers physician learning. This is an important yet complex aspect of health economics, encompassing how doctors acquire and update their medical knowledge and skills over time. For our purposes, we'll think of learning outside of the formal education process (e.g., learning by experience, from peers, or impediments to learning due to other external factors). For today, I'll focus on @ching2013 as an introduction to the topic. This paper discusses on the evolution of learning models in consumer and physician behavior over the past two decades. It reviews the literature on learning models, particularly emphasizing model in @erdem1996. The authors discuss how learning models have significantly enhanced understanding of consumer behavior, especially in the context of brand loyalty and the long-term effects of advertising. The paper also highlights the challenges in learning models, such as differentiating learning as a dynamic source from other factors like habit persistence and inventories, and improving the identification of learning models through direct measures of signals, perceptions, and expectations​.
+A defining feature of healthcare markets is that key dimensions of quality, prices, and performance are often difficult for patients, providers, and payers to observe. These information frictions motivate a wide range of disclosure policies, including public reporting of provider quality, insurance plan ratings, and posted prices. Understanding how disclosure affects behavior requires careful attention to who receives the information, what exactly is disclosed, and how agents incorporate that information into their decisions.
+
+The literature on information disclosure studies how increased observability changes market outcomes through several channels. On the demand side, disclosure can shift patient or enrollee choice by reducing uncertainty or correcting misperceptions. On the supply side, disclosure can alter provider incentives through reputation, referral patterns, and competitive pressure. At the same time, disclosure may induce strategic responses that complicate both empirical measurement and welfare analysis.
+
+We introduce this literature by focusing on core economic mechanisms and general lessons that apply across institutional settings. This framework provides the foundation for the next classes on physician quality reporting, insurance ratings, and price transparency. Potential papers for presentation today include:
+
+- @dranove2010 — a canonical survey of theory and evidence on quality disclosure and certification
+- @luco2019 — modern evidence on equilibrium and distributional effects of price disclosure

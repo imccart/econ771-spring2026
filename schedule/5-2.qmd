@@ -1,14 +1,14 @@
 ---
-title: "Dynamic Learning"
+title: "Insurance Ratings"
 ---
 
-In a dynamic setting, physicians are forward-looking in that they consider the value of "experimentation". In other words, physicians might try something new in hopes of learning more about the quality of the new treatment, understanding that this knowledge will affect all patients moving forward. We'll discuss the following topics and papers in this class, all of which allow for experimentation in learning.
+In insurance markets, consumers typically observe prices but face substantial uncertainty about plan quality, including network adequacy, customer service, and utilization management. Public ratings systems—such as Medicare Advantage star ratings—are designed to summarize these multidimensional quality attributes and guide consumer choice. Because these ratings are also tied to regulatory and financial incentives, they have the potential to shape both demand and insurer behavior.
 
-### Learning with Experimentation
-We'll discuss @crawford2005 in this topic. That paper introduces a dynamic matching model where patients learn from prescription experiences about drug effectiveness. A notable aspect of this model is its differentiation of drugs' symptomatic and curative effects and the endogenization of treatment duration based on drug choices and patients' recovery probabilities. The study reveals that while drug efficacy varies significantly across patients, learning effectively reduces the costs of uncertainty in pharmaceutical markets​.
+The literature on insurance ratings studies how consumers respond to publicly reported plan quality and how insurers adjust plan design, marketing, and coding practices in response to rating thresholds. On the demand side, ratings can reallocate enrollment across plans, affecting market shares and competitive dynamics. On the supply side, ratings may induce strategic responses that improve measured performance without necessarily improving underlying quality. As a result, insurance ratings provide a useful setting for studying the interaction between information disclosure, incentives, and market design.
 
-### Learning with Physician Skill
-Physicians may be limited in the extent of learning based on their underlying skill level, as studied in @currie2020. This paper introduces a model that highlights the trade-off between exploiting known treatments with the highest expected value and experimenting with newer treatments that may offer higher potential benefits. The model suggests that a doctor's diagnostic skill influences this trade-off, with higher skill leading to a greater variety of drug choices and better matching of drugs to individual patients. The study utilizes patient claims data and finds that, generally, a broader drug portfolio used by skilled doctors predicts better patient outcomes, except in cases where the doctor's decisions contravene established professional guidelines.
+We introduce this literature by focusing on empirical work that identifies the causal effects of insurance ratings on enrollment and insurer behavior. These papers illustrate how disclosure can amplify or distort incentives when ratings are embedded in regulatory frameworks, and they provide a natural bridge to broader discussions of transparency and competition in health insurance markets.
 
-### Learning with External Factors
-Learning might also be impeded or enhanced by other factors, such as insurers. @dickstein2018 considers this in his paper, where he estimates a dynamic model to examine how physicians, under varying insurance plan structures, learn and update their treatment strategies based on patient feedback. This model uniquely accounts for the role of insurance in influencing both patient access to drugs and the feedback loop essential for physicians' learning. The paper highlights the interplay between insurance plan design and the efficient provision of experience goods in healthcare, demonstrating how insurance parameters can shape the learning and decision-making process.
+Potential papers for presentation today include:
+
+- @jin2006 — a classic analysis of how publicized plan ratings affect consumer choice
+- @darden2015 — evidence on the impact of Medicare Advantage star ratings on enrollment

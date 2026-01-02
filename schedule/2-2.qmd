@@ -1,15 +1,13 @@
 ---
-title: "Different Mechanisms of Agency"
+title: "Agency and Non-financial Incentives"
 ---
 
-The goal for today's class is to consider other sources of physician agency (i.e., underlying mechanisms that generate different incentives between physicians and patients). Focus areas and papers are listed below:
+While financial incentives operate through explicit changes in physician reimbursement, many important sources of physician agency arise from incentives that do not directly affect pay. In this class, we use *non-financial incentives* to refer to forces that shape physician behavior through professional norms, reputation, peer interactions, information, and institutional constraints, rather than through marginal payments for specific services. These incentives matter even when prices are held fixed and help explain why physicians facing similar financial environments may practice very differently. For example, physicians may internalize local standards of care, respond to peer behavior, or adjust treatment choices to avoid malpractice risk. Empirical work documents persistent physician-specific practice styles that affect both utilization and patient outcomes, even after controlling for patient characteristics and observable incentives (@currie2016; @molitor2018). These findings highlight that agency is not simply a response to prices, but also reflects learned behavior and social context.
 
-### Physician Agency and Incentive Alignment
-The final paper we'll discuss today is @afendulis2007, which examines the role of physician agency in the the context of the scope of a physician's practice. This is kind of a precursor for more recent work related to agency and vertical integration.
+Other work emphasizes how informational frictions and expertise shape decision-making. Physicians often act as experts guiding patient choices, which can generate agency problems even in the absence of direct financial gain. For instance, referral decisions and diagnostic intensity may reflect physician beliefs, habits, or perceived responsibility rather than reimbursement alone. Studies exploiting variation in referral networks and physician mobility show that these non-financial channels can generate substantial differences in care delivery (@epstein2009; @zeltzer2020).
 
-### Physician Agency and Organization Structure
-Physicians are increasingly employed by hospitals rather than private practice. In the presence of physician agency, this raises important questions in terms of the effects of such organizational structure on healthcare decisions. We'll discuss @whaley2021 and @richards2022 as examples of research in this area. 
+Together, this literature demonstrates that non-financial incentives are central to understanding physician agency. These mechanisms complement—but are distinct from—financial incentives, and they motivate a broader view of physician behavior that incorporates norms, information, and social interactions. Potential papers for presentation today include:
 
-### Physician Agency and Insurers
-Just as how much physicians are paid can affect their behaviors, how they are paid might also matter. We'll discuss @ho2014 as an example of research in this area, which examines the role of physician agency in the context of capitated versus fee-for-service payment models. 
-
+- @currie2016 — physician practice styles and patient health outcomes
+- @molitor2018 — evolution of physician behavior through migration
+- @zeltzer2020 — referral networks, homophily, and physician behavior

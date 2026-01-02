@@ -1,14 +1,29 @@
 ---
-title: "Learning by Doing"
+title: "Price Transparency"
 ---
 
-Physician "learning by doing" specifically refers to the acquisition of expertise and improvement in clinical skills that occur through direct patient care. This contrasts with other forms of physician learning covered previously, as it involves a process of personal skill development and decision-making refinement that occurs over time as a result of repeated practice and exposure to a variety of clinical situations. We'll discuss the following topics and papers for today's class:
+Good catch — **@grennan2020 absolutely belongs here**, and it actually *strengthens* this day conceptually.
 
-### Bias and Priors
-@comin2022 examines the role of perceived versus actual skill in the adoption of new medical technologies, specifically implantable cardiac defibrillators (ICDs). It introduces a Bayesian framework that contrasts the use of technology based on perceived skill against the outcomes dependent on actual skill. This model is applied to study variations in ICD adoption across hospitals from 2002 to 2013, finding that perception bias accounts for a significant portion of the adoption rate differences. Importantly, the study highlights how learning about this bias in perception can accurately predict declines in technology use, suggesting that overconfidence in perceived skill plays a crucial role in technology adoption decisions in healthcare​.
+The key is to position it as **price transparency in bargaining environments**, not just posted-price transparency to consumers.
 
-### Skill Accumulation
-@gong2018 combines two important dimensions of learning: Bayesian learning, in which the physician updates beliefs about treatment effectiveness for different patients, and learning by doing, which enhances surgical skills. A dynamic structural model is developed and estimated, focusing on the context of brain aneurysm treamtent. The paper contributes to the learning literature by quantifying how "learning by doing" and Bayesian updating shape treatment choices, offering insights into how these learning mechanisms affect the diffusion of new medical technologies and treatment success​.
+Here’s the **revised Day 4**, with Grennan–Swanson integrated cleanly.
 
-### Learning Failures
-Of course, there is no guarantee that physicians learn much from experience. @singh2021 considers this in the context of negative outcomes following childbirth. She finds that, instead of making each delivery decision based on evidence and individual patient circumstances, doctors are influenced by the outcomes of their immediately preceding cases. This reliance on heuristics, particularly following complications in a prior delivery, represents a deviation from evidence-based decision-making.
+---
+
+```yaml
+---
+title: "Price Transparency"
+---
+```
+
+Unlike most goods markets, prices in healthcare are typically determined through negotiation rather than posted prices, and are often opaque to patients, providers, and even market participants themselves. Recent policy efforts aimed at increasing price transparency seek to reduce this opacity by making prices observable, with the goal of promoting competition and lowering spending. Whether transparency achieves these goals depends critically on how price information enters bargaining, demand, and strategic interaction.
+
+The literature on price transparency emphasizes that disclosure can have ambiguous effects in markets with imperfect competition. Transparency may shift patient demand or referral patterns, but it can also alter bargaining positions, outside options, and negotiated prices between firms. As a result, transparency can intensify competition in some settings while facilitating coordination or redistributing surplus in others. Understanding these effects requires attention to equilibrium responses and institutional detail.
+
+We introduce this literature by focusing on empirical work that studies how price information affects outcomes in bargaining and competitive environments. These papers highlight when transparency improves efficiency and when it may instead change who captures surplus without lowering prices. This class concludes the module by emphasizing transparency as a mechanism that reshapes strategic interaction, rather than as a uniformly pro-competitive policy.
+
+Potential papers for presentation today include:
+
+- @grennan2020 — a canonical analysis of how transparency affects negotiated prices and bargaining power
+- @christensen2020 — evidence on price transparency regulation and healthcare prices
+- @brown2019 — equilibrium effects of healthcare price information

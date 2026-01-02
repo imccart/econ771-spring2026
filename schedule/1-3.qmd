@@ -1,14 +1,16 @@
 ---
-title: "New Directions in Health Insurance Demand"
+title: "Competition and Market Structure"
 ---
 
-The goal for today's class is to consider where the research on health insurance might be headed and discuss some papers in those directions. For these classes, I'm trying to select topics with significant policy interest and room for additional research. There are many areas of active research in the study of health insurance, so this is far from exhaustive. Focus areas and selected papers for this class are listed below.
+A large literature studies how competition among insurers shapes premiums, plan offerings, and consumer outcomes in health insurance markets. While standard economic intuition suggests that increased competition should lower prices, identifying these effects empirically is challenging in health insurance due to regulation, benefit standardization, and interactions with provider prices. As a result, much of the empirical literature focuses on isolating plausibly exogenous variation in market structure and examining how insurer concentration and entry affect equilibrium premiums and plan characteristics.
 
-### Health Insurance Design and Consumer Behavior
-The design of health insurance plans (like copayments, deductibles, and coverage decisions) directly affects consumer choices and healthcare utilization. This area is crucial for policy design, ensuring that insurance structures meet both economic efficiency and equity goals. We'll discuss @brown2023wp and @ho2020 as an example of this line of current/future research.
+One strand of this literature examines the relationship between **insurer concentration and premiums**. Empirical evidence shows that more concentrated insurance markets tend to have higher premiums, though the magnitude of these effects depends on market definition and institutional context. These studies emphasize that insurer market power is an important determinant of prices, even in settings with substantial regulation (@dafny2012; @ho2017).
 
-### Innovation/Technology Adoption and Health Insurance
-In affecting how services are paid for, insurance can also affect the adoption of new technologies and innovations in healthcare. We'll discuss @garthwaite2012 and @agha2022aeri as examples of this line of work.
+More recent work highlights that competition can also operate along **non-price margins**, including plan design and networks, suggesting that the effects of competition may extend beyond premiums alone. Together, this literature provides a foundation for understanding when and how insurer competition delivers consumer benefits in health insurance markets.
 
-### Health Insurance Networks
-The structure of health insurance networks can affect the quality of care that patients receive. We'll briefly discuss @gruber2016 as an example of this line of work, even though it is a little bit older for "current/future" research, and we'll discuss @kreider2022 as a more recent example in this space.
+Potential papers for presentation today include
+
+- @dafny2012 — insurer concentration and health insurance premiums
+- @ho2017 — competition, plan design, and non-price margins
+
+

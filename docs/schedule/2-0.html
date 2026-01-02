@@ -8,7 +8,7 @@
 
 <meta name="description" content="PhD Course on the Economics of Healthcare">
 
-<title>Healthcare Variation and Physician Agency – Health Economics II</title>
+<title>Physician Agency – Health Economics II</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -70,14 +90,14 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Healthcare Variation and Physician Agency – Health Economics II">
+<meta property="og:title" content="Physician Agency – Health Economics II">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://econ771s24.classes.ianmccarthyecon.com//files/econ771-logo.png">
 <meta property="og:site_name" content="Health Economics II">
 <meta property="og:locale" content="en_US">
 <meta property="og:image:height" content="1024">
 <meta property="og:image:width" content="512">
-<meta name="twitter:title" content="Healthcare Variation and Physician Agency – Health Economics II">
+<meta name="twitter:title" content="Physician Agency – Health Economics II">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://econ771s24.classes.ianmccarthyecon.com//files/econ771-logo.png">
 <meta name="twitter:creator" content="@ianhealthecon">
@@ -136,22 +156,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#healthcare-variation" id="toc-healthcare-variation" class="nav-link active" data-scroll-target="#healthcare-variation">Healthcare variation</a></li>
-  <li><a href="#physician-agency" id="toc-physician-agency" class="nav-link" data-scroll-target="#physician-agency">Physician agency</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Healthcare Variation and Physician Agency</h1>
+<h1 class="title">Physician Agency</h1>
 </div>
 
 
@@ -168,19 +181,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Module 2 covers physician agency. I like to motivate the study of physician agency with a discussion of healthcare variation, which is the basic empirical fact that healthcare utilization varies substantially across and even within geographic areas. Such variation exists in part due to demand-side factors but also due to supply-side factors, of which physician agency plays a central role. As such, we’ll first introduce the evidence on variation in healthcare and then turn to some background on physician agency.</p>
-<section id="healthcare-variation" class="level2">
-<h2 class="anchored" data-anchor-id="healthcare-variation">Healthcare variation</h2>
-<p>The presence of variation in healthcare utilization and spending is well documented. The purpose of this part of the class will be to present some basic descriptive statistics in this area. The question of “how much” of this variation is due to demand vs.&nbsp;supply-side factors will be discussed in our next class.</p>
-</section>
-<section id="physician-agency" class="level2">
-<h2 class="anchored" data-anchor-id="physician-agency">Physician agency</h2>
-<p>With variation in healthcare utilization and spending in mind, we’ll turn to the question of why such variation exists. The answer to this question is complex, but one important factor is physician agency. We’ll discuss the concept of physician agency and then turn to some empirical evidence on the topic, most of which addresses the question of whether physicians respond to financial incentives. But more recent work also considers other dimensions of physician agency, such as referral decisions, ogranizational structure, and the underlying payment model. Ultimately, these mechanisms boil down to financial incentives, but they aren’t always as explicit as being paid more for one thing versus another.</p>
+<p>A central empirical fact motivating the study of physician agency is the substantial variation in healthcare utilization and spending across geographic areas and providers. Early work documenting small-area variation showed that patients with similar observable characteristics receive markedly different levels and types of care depending on where they live and which physicians they see (<span class="citation" data-cites="wennberg1973">J. Wennberg and Gittelsohn (<a href="#ref-wennberg1973" role="doc-biblioref">1973</a>)</span>; <span class="citation" data-cites="wennberg2003">J. E. Wennberg, Fisher, and Skinner (<a href="#ref-wennberg2003" role="doc-biblioref">2004</a>)</span>). While some of this variation reflects differences in patient health and preferences, a large literature demonstrates that supply-side factors play an important role, raising questions about how treatment decisions are made in environments characterized by asymmetric information and physician discretion.</p>
+<p>Physician agency provides a unifying framework for understanding these patterns. Physicians act as agents for patients, but they typically have discretion over diagnostic and treatment choices and face incentives that may not be perfectly aligned with patient welfare. Classic conceptual work formalizes this agency problem and emphasizes how physician objectives, information, and institutional constraints shape care delivery (<span class="citation" data-cites="mcguire2000">McGuire (<a href="#ref-mcguire2000" role="doc-biblioref">2000</a>)</span>). More recent empirical research builds on this framework to quantify the extent to which physicians contribute to observed variation in healthcare use, often exploiting patient or physician mobility to separate demand-side factors from physician practice styles (<span class="citation" data-cites="finkelstein2016">Finkelstein, Gentzkow, and Williams (<a href="#ref-finkelstein2016" role="doc-biblioref">2016</a>)</span>; <span class="citation" data-cites="badinski2023">Badinski et al. (<a href="#ref-badinski2023" role="doc-biblioref">2023</a>)</span>).</p>
+<p>Together, this body of work highlights physician agency as a key mechanism linking institutional features of healthcare markets to real differences in treatment intensity and patient outcomes. It also provides a foundation for subsequent discussions of how financial and non-financial incentives, as well as organizational structure, shape physician behavior.</p>
+<p>Potential papers for presentation today include:</p>
+<ul>
+<li><span class="citation" data-cites="finkelstein2016">Finkelstein, Gentzkow, and Williams (<a href="#ref-finkelstein2016" role="doc-biblioref">2016</a>)</span> — separating demand- and supply-side sources of healthcare variation</li>
+<li><span class="citation" data-cites="badinski2023">Badinski et al. (<a href="#ref-badinski2023" role="doc-biblioref">2023</a>)</span> — the role of physicians in explaining geographic variation in utilization</li>
+</ul>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-badinski2023" class="csl-entry" role="listitem">
+Badinski, Ivan, Amy Finkelstein, Matthew Gentzkow, and Peter Hull. 2023. <span>“Geographic <span>Variation</span> in <span>Healthcare</span> <span>Utilization</span>: <span>The</span> <span>Role</span> of <span>Physicians</span>.”</span> Working {Paper}. Working <span>Paper</span> <span>Series</span>. National Bureau of Economic Research. <a href="https://doi.org/10.3386/w31749">https://doi.org/10.3386/w31749</a>.
+</div>
+<div id="ref-finkelstein2016" class="csl-entry" role="listitem">
+Finkelstein, Amy, Matthew Gentzkow, and Heidi Williams. 2016. <span>“Sources of <span>Geographic</span> <span>Variation</span> in <span>Health</span> <span>Care</span>: <span>Evidence</span> <span>From</span> <span>Patient</span> <span>Migration</span>.”</span> <em>The Quarterly Journal of Economics</em> 131 (4): 1681–1726. <a href="https://ideas.repec.org//a/oup/qjecon/v131y2016i4p1681-1726..html">https://ideas.repec.org//a/oup/qjecon/v131y2016i4p1681-1726..html</a>.
+</div>
+<div id="ref-mcguire2000" class="csl-entry" role="listitem">
+McGuire, Thomas G. 2000. <span>“Physician Agency.”</span> <em>Handbook of Health Economics</em> 1: 461–536.
+</div>
+<div id="ref-wennberg2003" class="csl-entry" role="listitem">
+Wennberg, John E., Elliott S. Fisher, and Jonathan S. Skinner. 2004. <span>“Geography <span>And</span> <span>The</span> <span>Debate</span> <span>Over</span> <span>Medicare</span> <span>Reform</span>.”</span> <em>Health Affairs</em>, W96–114. <a href="https://www.proquest.com/docview/204500754/abstract/1F1C6E2B7FD14576PQ/1">https://www.proquest.com/docview/204500754/abstract/1F1C6E2B7FD14576PQ/1</a>.
+</div>
+<div id="ref-wennberg1973" class="csl-entry" role="listitem">
+Wennberg, John, and Alan Gittelsohn. 1973. <span>“Small Area Variations in Health Care Delivery: A Population-Based Health Information System Can Guide Planning and Regulatory Decision-Making.”</span> <em>Science</em> 182 (4117): 1102–8.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

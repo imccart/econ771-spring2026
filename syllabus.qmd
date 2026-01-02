@@ -81,7 +81,7 @@ There is an applied component of this course where we spend some time with a rea
 
 This section is just to highlight important dates for assignments throughout the semester. Note that late assignments will receive an automatic 5% reduction in the grade for each day the assignment is turned in after the due date.
 
-   - **Select Papers to Present** no later than **January 20**: Note the papers you plan to present on the **Presentations** tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.
+   - **Select Papers to Present** no later than **January 16**: Note the papers you plan to present on the **Presentations** tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.
    - **Select Empirical Exercise** no later than **January 29**: Note your selection on the **Exercises** tab of our shared Google Sheet. No more than two students per exercise.
    - The first **Research Proposal** is due on **February 5**
    - The second **Research Proposal** is due on **February 26**

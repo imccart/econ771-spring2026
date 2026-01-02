@@ -1,12 +1,18 @@
 ---
-title: "Variation and Physician Agency"
+title: "Agency and Financial Incentives"
 ---
 
-The goal for today's class is to understand the literature on geographic variation in healthcare spending/utilization and some of the key papers in physician agency. Focus areas and selected papers are listed below:
+Today we focus on the role of financial incentives in the context of physician agency problems. This literature examines whether and how physicians respond to changes in payment when making treatment decisions. Financial incentives are a natural starting point for studying agency because they provide clear, measurable variation in the marginal returns to different clinical actions. At the same time, isolating causal effects is challenging, as payment changes often coincide with broader policy reforms or shifts in patient composition.
 
-### Supply-side Variation
-While there is substantial research documenting variation in healthcare spending and utilization, there is less consensus on the source of this variation. The first group of papers we'll discuss today attempt to decompose variation in healthcare spending between demand and supply-side factors. We'll focus on @finkelstein2016 and @badinski2023 specifically. While these are relatively recent papers, the build on a much older literature studying variation in spending.
+Early and influential work exploits settings in which physicians directly profit from specific treatment choices. For example, @iizuka2012 studies prescribing behavior in Japan, where physicians both prescribe and dispense drugs, creating sharp financial incentives to favor branded pharmaceuticals over generics. The paper provides clean evidence that physicians respond to these incentives, highlighting how agency can distort treatment choices even in the absence of explicit patient demand.
 
-### Physician Agency and Financial Incentives
-While there are many papers studying this topic, we'll discuss @iizuka2012 and @clemens2014 in class. @iizuka2012 considers prescribing behaviors in a unique setting where physicians can profit directly from different prescriptiond rugs. @clemens2014 examines the impact of an exogenous change in Medicare reimbursement rates on physician behavior.
+More recent work leverages quasi-experimental variation in reimbursement rates to study physician responses in the U.S. healthcare system. @clemens2014 exploits plausibly exogenous changes in Medicare physician fees to estimate supply responses, showing that physicians adjust both the volume and intensity of care in response to payment changes. Importantly, the paper also examines downstream effects on patient health, illustrating how financial incentives can influence not only utilization but outcomes.
+
+Together, these studies demonstrate that physicians respond to financial incentives in systematic ways, but also raise broader questions about the effectiveness and limits of payment-based policy tools. These questions motivate later discussions of non-financial incentives and organizational constraints.
+
+Potential papers for presentation today include:
+
+- @iizuka2012 — physician dispensing incentives and prescribing behavior
+- @clemens2014 — reimbursement changes and physician treatment responses
+- @ho2014 — financial incentives, hospital choice, and physician behavior
 

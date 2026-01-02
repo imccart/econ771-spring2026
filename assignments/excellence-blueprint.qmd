@@ -1,0 +1,21 @@
+---
+title: "Excellence Blueprint"
+# format:
+#  pdf: default
+---
+
+Your analysis must answer the core question: What specific choices, in both research design and articulation, warrant this paper's strong publication and reputation? In answering this question, please divide your report into two sections (10 points for each section):
+
+1. **The Science:** Address the paper's substance and fit within the literature. This section should detail what the paper contributes and how its methods stand up to scrutiny.
+
+    - *Novelty and Contribution:* Clearly articulate the paper's central research question. What specific gap in the literature does it fill? What is the single most important new insight this work provides to the field of health economics?
+    - *Methodological Excellence:* Analyze the core empirical strategy. What choices (e.g., data selection, identification strategy, or estimator) demonstrate methodological rigor? Why is the chosen method appropriate in this case?
+    - *Engagement with Literature:* Assess how the authors position their work. Identify two key papers the authors successfully build upon or challenge, and explain how the introduction and discussion sections integrate the new findings into the existing scholarly conversation.
+
+2. **The Art:** Analyze the paper's execution and its persuasive power. This section should detail how the authors guide the reader and present their findings clearly.
+
+    - *Introduction and Hook:* Dissect the first two pages. How does the paper successfully motivate the question and establish its importance to both academics and policymakers? Pinpoint two specific sentences or paragraphs that are highly effective in hooking the reader and explain why they work.
+    - *Clarity and Structure:* Evaluate the overall narrative flow. How do the authors simplify and present complex econometric analyses? Identify specific structural elements (e.g., headings, figures, tables) that enhance clarity and guide the reader through the evidence without sacrificing technical precision.
+    - *The Policy Takeaway:* Analyze the conclusion and/or discussion sections. How do the authors move from specific empirical findings to a broader, impactful policy implication? Explain how the discussion ensures the paper's findings are memorable and actionable.
+
+Your final product should be no longer than 4 pages (double-spaced, 11 point font, 1 inch margins), not including a bibliography.

@@ -1,22 +1,18 @@
 ---
-title: "Effects of Health Insurance"
+title: "Adverse Selection"
 ---
 
-The goal of today's class is to study the effects of health insurance. In this general area, one topic that has been very well studied but that we won't discuss much is the role of moral hazard in health insurance. This was part of our discussion in the last class, but for more details on that, see @einav2018jeea. Focus areas and selected papers for this class are listed below.
+A central friction in health insurance markets is adverse selection, which arises when consumers with different expected healthcare costs sort into different insurance plans. When higher-risk individuals disproportionately enroll in more generous coverage, insurers may face average costs that exceed premiums, leading to premium increases, market unraveling, or the withdrawal of plans altogether. A large literature studies how adverse selection affects pricing, plan offerings, and equilibrium outcomes in health insurance markets, as well as how institutional features and policy interventions can mitigate or exacerbate these forces.
 
-### Financial Effects of Health Insurance
-In reducing the financial burden of healthcare costs, health insurance should relax a household's budget constraint and reduce the probability of default on other financial obligations. This is an important consideration for policymakers, as it speaks to the broader economic impacts of health insurance. You'd think that this would be a more settled area of literature, but it has had surprisingly littler work done in this space.
+One strand of this literature focuses on **pricing and the empirical detection of adverse selection**. These papers develop and apply empirical tools to test for selection by examining the relationship between premiums, plan characteristics, and realized costs. Early and influential work shows how pricing patterns and enrollment responses can reveal the presence and magnitude of adverse selection in real-world insurance markets, providing a foundation for much of the modern empirical literature (@bundorf2012; @einav2010qje).
 
-As an example of this area of research, we'll discuss @gross2011 and @hu2018. @gross2011 considers Medicaid expansions and bankruptices. @hu2018 similarly considers Medicaid expansions, but looks more generally at debt as their financial outcome. Both papers find that Medicaid expansions reduce financial hardship.
+A second strand examines **policy interventions aimed at mitigating adverse selection**, such as mandates, subsidies, and choice architecture. This work emphasizes that while such policies can improve market stability, they may also generate unintended consequences depending on how consumers respond and how insurers adjust plan design. A series of papers demonstrates that the effectiveness of these interventions depends critically on consumer inertia, switching costs, and the interaction between policy design and market structure (@handel2013; @handel2015; @handel2019).
 
-### Health Effects of Health Insurance
-While it seems obvious to some, it's not immediately clear that health insurance should improve health. We'll discuss two papers that show strong evidence that health insurance does improve health. The first is @miller2021, which relates to Medicaid expansion. The second is @goldin2021, which examines health insurance and mortality among non-Medicaid eligible adults. These are more recent papers, but that's because only recently did we begin to get the proper data to answer this question definitively.
+More recent work extends the analysis of adverse selection beyond premiums and benefits to consider **insurance networks as a margin of selection**. In this view, plan networks—particularly hospital networks—shape both consumer choice and insurer costs, introducing new channels through which adverse selection operates. Evidence from health insurance exchanges shows that network design can be used strategically to attract or deter certain types of enrollees, linking adverse selection to competition among providers and insurers in novel ways (@shepard2022).
 
-### Health Insurance and Overall Welfare
-While health insurance clearly has direct effects on patients, it also has indirect effects on other parties, such as providers, employers, and taxpayers. These indirect effects are important to consider when evaluating the overall welfare effects of health insurance. @finkelstein2007 and @finkelstein2019jpe are excellent examples of papers in this area.
+Potential papers for presentation today include
 
-I lump these papers together because they both speak to effects of health insurance beyond an individual patient or enrollee. @finkelstein2007 examines the broader economic impacts of the introduction of Medicare in the U.S. She finds that the introduction of Medicare led to a significant increase in hospital spending, responsible for a substantial portion of the 37 percent increase in hospital spending between 1965 and 1970. They also discuss how the increased spending due to Medicare led to rapid growth in the healthcare sector, influencing not only healthcare delivery but also labor markets and infrastructure within the sector. The paper underscores the need to consider both direct and indirect effects of large scale policies such as Medicare.
-
-@finkelstein2019jpe considers the value of Medicaid coverage using the Oregon Health Insurance Experiment. The study estimates that low-income uninsured adults' willingness to pay for Medicaid ranges from $0.5 to $1.2 per dollar of the resource cost of providing Medicaid. The authors show that 60% of Medicaid's gross expenditures, or $3600 per recipient, are essentially transfers to parties who would otherwise subsidize medical care for the low-income uninsured, leaving the net cost of Medicaid at about $1450 per recipient. The paper concludes that Medicaid serves dual roles: as a monetary transfer to external parties and as a subsidized insurance product for recipients, with recipient willingness to pay for Medicaid significantly below its gross cost​.
-
+- @einav2010qje — empirical tests for selection using pricing and cost data
+- @handel2019 — consumer inertia, policy interventions, and adverse selection
+- @shepard2022 — hospital networks as a channel for adverse selection
 

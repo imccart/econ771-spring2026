@@ -1,0 +1,15 @@
+---
+title: "Vertical Integration"
+---
+
+Competition in healthcare is often discussed in horizontal terms, but vertical integration between providers and across levels of the healthcare supply chain has become increasingly prevalent. Hospitals have expanded their ownership of physician practices, insurers have acquired provider organizations, and health systems have adopted integrated delivery models that combine financing and care provision. These arrangements can alter incentives, information flows, and bargaining relationships in ways that standard horizontal competition frameworks do not capture.
+
+The literature on vertical integration in healthcare examines whether these organizational changes primarily generate efficiency gains—such as improved care coordination, better information sharing, and reduced transaction costs—or instead increase market power through foreclosure, higher negotiated prices, or changes in referral patterns. Empirical studies document that vertical integration can affect prices, utilization, and spending, but the mechanisms remain an active area of debate. In contrast to horizontal mergers, the competitive effects of vertical integration often depend on subtle institutional details, including referral incentives, billing rules, and contractual restrictions.
+
+We introduce this literature by focusing on recent empirical work that studies hospital–physician and insurer–provider integration using quasi-experimental designs. These papers highlight how vertical integration reshapes competitive dynamics without necessarily changing traditional concentration measures, and they underscore the importance of organizational form for understanding pricing and welfare in healthcare markets.
+
+Potential papers for presentation today include:
+
+- @cuesta2019 — evidence on hospital–physician integration and spending
+- @koch2021 — vertical integration, referrals, and provider behavior
+- @capps2018 — foreclosure and price effects of vertical integration

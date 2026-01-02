@@ -1,12 +1,12 @@
 ---
-title: "Physician Learning"
+title: "Information Disclosure"
 ---
 
-Module 5 covers physician learning. I've attempted to split this area into three general topics, one that considers learning in a more myopic setting, another that considers learning with experimentation, and another area that considers learning by doing or skill accumulation. A broad list of relevant papers is in the drop-down list below.
+Module 5 considers information disclosure as a central policy and market-design tool in healthcare. The papers (listed in the drop-down below) examine how disclosing information about quality, prices, or performance affects behavior by patients, providers, insurers, and regulators. A recurring theme is that disclosure operates through multiple channels—consumer choice, provider incentives, learning, and strategic response—and its effects depend critically on what information is disclosed, to whom, and in what market environment. The readings span foundational theoretical and empirical work on report cards and ratings, as well as more recent evidence on insurance ratings and price transparency, highlighting both intended and unintended consequences of transparency policies.
 
 ```{=html}
 <details>
     <summary>List of Key Papers (click to expand)</summary>
-    <iframe src="learning-bib.html" width="100%" height="600px"></iframe>
+    <iframe src="information-bib.html" width="100%" height="600px"></iframe>
 </details>
 ```

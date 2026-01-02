@@ -1,12 +1,12 @@
 ---
-title: "Pricing and Competition"
+title: "Physician Learning"
 ---
 
-Module 3 covers pricing and competition. Most of this work focuses on hospitals but not exclusively. Below is a drop-down list of papers relevant for this module.
+Module 3 covers physician learning. More specifically, we study how physicians learn from experience, information, and peers, and how that learning shapes treatment choices and the adoption of new medical technologies. The readings span foundational models of learning under uncertainty, empirical evidence on learning-by-doing and skill accumulation, and work on learning about patient–treatment matches. The module also highlights the role of social learning and peer effects in the diffusion and abandonment of technologies. Together, these papers emphasize learning as a central mechanism driving heterogeneity in physician behavior, treatment patterns, and productivity, complementing the static incentive-based frameworks introduced earlier in the course.
 
 ```{=html}
 <details>
     <summary>List of Key Papers (click to expand)</summary>
-    <iframe src="competition-bib.html" width="100%" height="600px"></iframe>
+    <iframe src="learning-bib.html" width="100%" height="600px"></iframe>
 </details>
 ```

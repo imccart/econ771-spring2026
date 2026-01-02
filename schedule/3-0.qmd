@@ -1,9 +1,15 @@
 ---
-title: "Pricing and Competition"
+title: "Learning Under Uncertainty"
 ---
 
-In explaining why we spend so much money on healthcare in the U.S., Uwe Reinhardt famously said, "It's the prices, stupid." The spirit of his comment is that, while people will try to cite lots of reasons for high healthcare spending (such as physician salaries, profit incentives, poorer health of U.S. population relative to other countries, overuse of healthcare, fraud, etc.), these things really aren't big factors relative to price differences. Essentially, if we want to really address healthcare spending, we need to place downward pressure on prices. With that in mind, Module 3 covers pricing and competition in healthcare.
+An important feature of medical decision-making is that physicians often operate under substantial uncertainty about treatment effectiveness, side effects, and patient-specific responses. Much of clinical knowledge is acquired outside of formal training, through experience, feedback from outcomes, and exposure to new information. As a result, treatment decisions reflect not only preferences and incentives, but also evolving beliefs shaped by incomplete and noisy signals.
 
-The observation that prices in healthcare care are high is not new. It's been a problem for decades. Some good surveys of this problem and suggestions to improve competitiveness in healthcare include: @dranove2000, @gaynor2000, @gaynor2003, @gaynor2012, @gaynor2012rwjf, @gaynor2015jel, @gaynor2017brookings, @handel2021. Our slides for today reflect a lot of the general insights from these types of surveys.
+The literature on physician learning provides a framework for understanding how doctors update beliefs over time and how uncertainty influences treatment choice. Learning models formalize the idea that physicians face trade-offs between exploiting treatments they believe to be effective and experimenting with alternatives to gain information. These dynamics can generate persistence in practice styles, delayed adoption of new technologies, and heterogeneity in care even among observationally similar physicians.
 
-One important background point in the study of competition is the role of market definition and the different measures of market power. @everson2019 and @dranove2016 provide good reviews of these points, respectively. We'll discuss these issues as part of our introduction to this module.
+We introduce this literature using @ching2013, which reviews the development of empirical learning models in consumer and physician behavior over the past two decades. Building on foundational work such as @erdem1996, the paper highlights how dynamic learning models have improved our understanding of decision-making under uncertainty, while also emphasizing key empirical challenges. In particular, it discusses the difficulty of distinguishing learning from other sources of persistence, such as habit formation or switching costs, and the importance of directly measuring information, beliefs, and expectations. This framework provides a common language for the remainder of the module, where we examine specific objects of learning and their implications for treatment decisions and technology adoption.
+
+Potential papers for presentation today include:
+
+- @ching2013 — a synthesis of learning models and their empirical challenges
+- @erdem1996 — a canonical framework for dynamic decision-making under uncertainty
+- @chan2013 — a physician-focused model of learning about treatment effectiveness and side effects

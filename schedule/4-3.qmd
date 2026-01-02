@@ -1,11 +1,16 @@
 ---
-title: "Disclosure of What and to Whom?"
+title: "Cross-Market Mergers"
 ---
 
-The goal for today's class is to consider heterogeneities in information disclosure depending on who gets the information and what information is disclosed. Focus areas and selected papers for this class are listed below.
+Much of the literature on hospital consolidation focuses on mergers between hospitals that compete in the same geographic market. However, a growing share of hospital mergers involve systems that operate in distinct local markets and do not directly compete for patients. These cross-market mergers pose a challenge for standard antitrust analysis, since they do not mechanically reduce local competition or increase concentration as measured by traditional market-definition tools. Understanding how such mergers affect prices therefore requires alternative economic mechanisms.
 
-### Information for Whom?
-Given our understanding of physician agency and the role of physicians (or experts in general) on patient decisions, then it might matter if we provide information to patients versus physicians. We'll discuss @dickstein2024 as a good example of this work. The authors find that when physicians have better information about patients' costs, they are more likely to recommend cost-effective treatments, leading to a reduction in overall healthcare spending. This highlights the importance of improving information flow to physicians (instead of patients) as a potential strategy for enhancing healthcare efficiency and reducing patient costs.
+Recent work emphasizes that cross-market consolidation can increase prices through changes in bargaining leverage rather than local market power. When a hospital system operates in multiple markets, it may gain the ability to negotiate higher prices by leveraging common insurers or employers across markets, even if hospitals within a given market remain geographically distinct. Related work draws on the concept of multimarket contact, in which firms competing across multiple markets internalize the effects of aggressive pricing in one market on competition in others. These mechanisms suggest that consolidation can raise prices even in the absence of within-market overlap.
 
-### Disclosure in Bargaining
-Another interesting aspect of disclosure is that it can change the bargaining position of different entities. @grennan2020 study this in the context of hospital negotiations over prices for medical devices. They find that increased transparency leads to more competitive prices, benefiting hospitals through lower costs for supplies.
+We introduce this literature by focusing on empirical studies that test these mechanisms in hospital markets. These papers examine how prices respond to system expansion across markets and how shared customers and multimarket interactions shape bargaining outcomes. Together, they extend the standard merger framework and highlight the importance of system-level organization for understanding hospital pricing.
+
+Potential papers for presentation today include:
+
+- @dafny2019 — evidence on cross-market mergers and the common-customer mechanism
+- @schmitt2018 — multimarket contact and hospital pricing
+- @lewis2017 — system expansion and bargaining leverage across markets
+

@@ -1,16 +1,15 @@
 ---
-title: "Information and Choice"
+title: "Competition in Reduced Form"
 ---
 
-The goal for today's class is to understand the effects of information disclosure on insurance and provider choice. On the insurance side, prices (as in premiums, deductibles, etc.) are typically readily available, so the literature on that area tends to focus on quality disclosure. On the provider side, there is a literature focusing on both quality and price transparency, which we'll discuss separately. Focus areas and selected papers for this class are listed below.
+A central empirical challenge in studying hospital competition is identifying the causal effect of market structure on prices and outcomes. Early empirical work often relied on cross-sectional correlations between measures of concentration and prices, but concerns about endogeneity and market definition have motivated a shift toward research designs that exploit discrete changes in competitiveness. In hospital markets, mergers, closures, and entry events provide natural settings in which competitive conditions change sharply, allowing researchers to study how prices and quality respond.
 
-### Information and Insurance Choice
-We'll start our discussion with @chernew2008, who presents a nice model of patient learning in the context of quality disclosure. We'll also discuss @dafny2008, which is one of the seminal papers in this area. The authors compare plan choices before and after the release of plan quality information, and they essentially ask whether the disclosure of such information is really "new" or if the market had already learned about plan quality through other means.
+The reduced-form literature on hospital mergers uses quasi-experimental designs to estimate the effects of consolidation without fully specifying the underlying pricing or bargaining process. These studies typically compare prices or outcomes in markets affected by mergers to those in unaffected markets, using difference-in-differences or event-study approaches. A central finding of this literature is that hospital mergers lead to large and persistent price increases, even in settings with nonprofit ownership and regulated payment systems. This evidence plays a prominent role in antitrust enforcement because it relies on transparent identification strategies and minimal structural assumptions.
 
-### Quality Information and Provider Choice
-Since healthcare is an experience good, we simply don't know the quality of our care until after we've received it. But we might still be able to better predict quality based on providers' past outcomes. Such information has historically been difficult or impossible to observe, but this is changing. We'll discuss two studies on the effects of quality disclosure on provider choice: @dranove2003 and @brown2023.
+In addition to prices, a smaller but important literature studies how consolidation affects hospital quality. Measuring quality responses is empirically challenging, both because quality is multidimensional and because improvements in care coordination may offset reductions in competitive pressure. Existing evidence suggests that quality effects are heterogeneous and often muted relative to price effects, with some studies finding no improvement—and in some cases deterioration—in clinical outcomes following consolidation. These results highlight an important asymmetry in merger effects and reinforce the policy relevance of price-based evidence.
 
-### Price Information and Provider Choice
-In the U.S., prices for healthcare services are notoriously difficult to observe, but there have been recent efforts to change this. We'll discuss two studies on the effects of price disclosure on provider choice: @christensen2020 and @brown2019.
+Together, these papers motivate the need for richer models of hospital pricing and incentives, which we take up in the next class on insurer–hospital bargaining. Potential papers for presentation today include:
 
-
+- @kessler2000 — competition, prices, and quality in hospital markets
+- @dafny2009 — design-based evidence on hospital mergers and price effects
+- @gaynor2013 — evidence on hospital competition and patient outcomes

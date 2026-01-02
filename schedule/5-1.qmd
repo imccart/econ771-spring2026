@@ -1,11 +1,15 @@
 ---
-title: "Myopic Learning"
+title: "Physician Quality"
 ---
 
-The bulk of the early literature on physician learning considers the case of a physician who is myopic, in the sense that they do not consider the impact of their actions on future patients. We'll focus on the following areas and papers:
+A longstanding challenge in healthcare markets is that provider quality is difficult for patients to observe prior to receiving care. Public reporting of physician outcomes and quality measures is intended to address this information problem by helping patients make better choices and by creating incentives for providers to improve performance. Understanding the effects of physician quality disclosure therefore requires examining both how patients respond to quality information and how providers adjust their behavior in response to increased observability.
 
-### Learning with Spillovers
-In the context of prescription drugs, the simplest learning model considers a single agent learning about the best drug based on their experience with that drug. But in a prescription drug setting, physicians can learn about drugs based on their experience with other patients. We'll discuss @coscelli2004 as an example of this work. In that paper, the authors incorporate a more comprehensive learning model that allows for spillovers across all patients of a given doctor, as well as heterogeneity in patient informativeness. This approach is particularly relevant for pharmaceutical markets, where prescription drugs are often used for multiple diagnoses. The paper extends existing literature by using micro-data to quantify network-type spillovers across patients belonging to the same doctor, a significant contribution to the literature on physician learning. This model helps in understanding how doctors update their beliefs and make prescribing decisions based on the experiences of their patients with new medications, providing valuable insights into the dynamics of new drug entry in the market​
+The literature on physician quality disclosure emphasizes two key margins of adjustment. First, public reporting can shift patient demand and referral patterns toward higher-rated providers, potentially improving allocative efficiency. Second, disclosure can induce changes in provider behavior through reputational concerns, intrinsic motivation, or strategic responses such as selection and gaming. Importantly, these effects need not align, and quality disclosure may improve measured performance without improving underlying care.
 
-### Learning from Others
-While most models consider learning based on the individual's own experience, physicians also learn from many other sources. We'll discuss @chandra2007 and @agha2018 as examples of such learning, the first of which examines learning from peers and the second considers learning from new research trials.
+We introduce this literature by focusing on empirical work that isolates the causal effects of physician quality reporting on patient choice and provider behavior. These studies highlight both the promise of disclosure as a policy tool and the challenges it poses for measurement and welfare analysis. This discussion sets up the following classes on insurance ratings and price transparency, where similar mechanisms operate in different institutional contexts.
+
+Potential papers for presentation today include:
+
+- @dranove2003 — a foundational study of how public report cards affect provider behavior and outcomes
+- @kolstad2013 — evidence on physician responses to quality disclosure driven by intrinsic motivation
+- @epstein2010 — analysis of how quality report cards reshape referral patterns among physicians

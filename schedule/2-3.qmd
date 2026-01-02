@@ -1,15 +1,18 @@
 ---
-title: "Different Dimensions of Agency"
+title: "Agency in Organization and Teams"
 ---
 
-The goal for today's class is to consider where the research on physician agency might be headed and discuss some papers in those directions. As always, this is just my prediction on topic areas for the future. It's far from exhaustive and might be way off! Focus areas and selected papers for this class are listed below.
 
-### Agency and Referrals
-We are increasingly learning that the group (or network) of physicians involved in patient care matters for their outcomes, perhaps more than any single physician in isolation. We'll discuss @zeltzer2020 and @agha2022ms as examples of papers in this area. @agha2022ms considers the consequences of different referral network structures for PCPs, and @zeltzer2020 considers the creation of referral networks themselves with implications for how these networks are shaped by physician agency. 
+Much of the research on physician agency focuses on individual decision-making, holding organizational context fixed. In practice, however, physicians rarely operate in isolation. Treatment decisions are shaped by referral networks, team-based care, and organizational constraints imposed by hospitals, physician groups, and integrated delivery systems. Today, we study how physician agency operates when decision-making authority is shared across multiple providers and embedded within organizations.
 
-### Agency in Hospital Choice
-Physicians can also influence where patients receive care or what subsuquent physicians a patient visits. As an example of this work, we'll discuss @gaynor2016. The authors examing the role of physicians in hospital choice, focusing on plausibly exogenous changes to the set of hospitals from which a physician could select. The paper is also a good example of recent work on consideration sets in discrete choice analysis.
+Referral networks and team structure play an important role in shaping care delivery. Patterns of interaction among physicians influence treatment intensity, coordination, and patient outcomes, even when financial incentives are held constant. Empirical studies show that referral relationships affect both where patients receive care and which treatments they receive, with implications for performance and equity in healthcare delivery (@zeltzer2020; @agha2022ms).
 
-### Agency in Other Healthcare Settings  
-As healthcare delivery changes, so do the opportunities for healthcare providers to exercise agency. We'll discuss @eliason2020 and @gruber2023 as examples of this work. @eliason2020 consider the role of agency in the context of long-term acute care. This is a setting where patients are often transferred to a different facility for care, and the authors examine how providers might discharge patients to long-term acute care facilities based on their financial incentives. @gruber2023 examines agency in the context of emergency department wait times.
+Physicians also exercise agency by influencing where patients receive care, including hospital choice and downstream referrals. In settings where patients rely on physician expertise to navigate complex provider choice sets, physician preferences and constraints can meaningfully affect hospital utilization. Evidence from institutional reforms that alter physician choice sets illustrates how agency interacts with market structure (@gaynor2016).
 
+Finally, agency is especially salient in settings where care is transferred or delegated across providers or facilities. These environments highlight how organizational rules and institutional incentives shape physician decision-making under tight constraints. Evidence from long-term acute care hospitals and emergency departments shows how agency affects utilization and patient outcomes in institutional settings (@eliason2018; @gruber2023).
+
+Taken together, these papers show that physician agency cannot be understood solely at the individual level. Organizational structure and team-based decision-making are central to how care is delivered and how policy interventions ultimately operate. Potential papers for presentation today include:
+
+- @agha2022ms — referral networks and team structure
+- @gaynor2016 — physician influence on hospital choice
+- @eliason2018 — agency in institutional care settings

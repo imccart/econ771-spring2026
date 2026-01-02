@@ -6,103 +6,94 @@ format:
     page-layout: full
 ---
 
-Below is a breakdown of topics for each class day this semester. Assignments are also listed according to their due dates. The associated links take you to additional information relevant for that day or for that assignment. The **Details** link provides specific readings for that class and any supplemental materials; the **Slides** link takes you to the relevant slides for that day; and the **Assignment** link takes you to the relevant details for each assignment. Each heading is also linked to a broader literature review for that topic, containing many more papers than we will cover in class. For those of you interested in learning more about a particular topic, this is a good place to start.
+Below is a breakdown of topics for each class day this semester. Assignments are also listed according to their due dates. The associated links take you to additional information relevant for that day or for that assignment. Each heading is also linked to a broader literature review for that topic, containing many more papers than we will cover in class. For those of you interested in learning more about a particular topic, this is a good place to start.
   
 
 ## Welcome to the class!
 
-| Class | Dates  | Topic                            | Details | Slides | Assignment  |
-|:-----:|--------|----------------------------------|:-------:|:------:|:-----------:|
-|  1    | 1/17   | Economics of healthcare          | [{{< fa magnifying-glass  >}}](/schedule/0-0.html)       | [{{< fa person-chalkboard >}}](/slides/class1.html)       | |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  1    | 1/13   | Introductions                         | [{{< fa magnifying-glass  >}}](/schedule/0-0.html)       | 
+: {tbl-colwidths="\[10,15,35,20\]"}
 
 
-## Module 1: [Health insurance](1-literature.qmd)
+## Module 1: [Health Insurance and Market Design](1-literature.qmd)
 
-| Class | Dates  | Topic                            | Details | Slides | Assignment |
-|:-----:|--------|----------------------------------|:-------:|:------:|:----------:|
-|  2    | 1/19   | Background                       | [{{< fa magnifying-glass >}}](/schedule/1-0.html)        |   [{{< fa person-chalkboard >}}](/slides/class2.html)     | | 
-|  3    | 1/22   | Demand for Healthcare and Health Insurance      | [{{< fa magnifying-glass >}}](/schedule/1-1.html)        |   [{{< fa person-chalkboard >}}](/schedule/class3.qmd)     | | 
-|  4    | 1/24   | Effects of Health Insurance      | [{{< fa magnifying-glass >}}](/schedule/1-2.html)        |   [{{< fa person-chalkboard >}}](/schedule/class4.qmd)     | | 
-|  5    | 1/26   | **Research proposals** (demo)    | [{{< fa magnifying-glass >}}](/schedule/proposals1.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  6    | 1/29   | New Research in HI Demand        | [{{< fa magnifying-glass >}}](/schedule/1-3.html)        |   [{{< fa person-chalkboard >}}](/schedule/class6.html)     | | 
-|  7    | 1/31   | Adverse Selection                | [{{< fa magnifying-glass >}}](/schedule/1-4.html)        |   [{{< fa person-chalkboard >}}](/schedule/class7.html)     | | 
-|  8    | 2/2    | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals2.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  9    | 2/5    | Competition in Health Insurance  | [{{< fa magnifying-glass >}}](/schedule/1-5.html)        |   [{{< fa person-chalkboard >}}](/slides/class9.html)     | | 
-|  10   | 2/7    | New Research in HI Markets       | [{{< fa magnifying-glass >}}](/schedule/1-6.html)        |   [{{< fa person-chalkboard >}}](/slides/class10.html)    | |
-|  11   | 2/9    | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals3.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  2    | 1/15   | Demand for Health Insurance           | [{{< fa magnifying-glass >}}](/schedule/1-0.html)        | 
+|       | 1/16   | **Select Papers to Present**          | [{{< fa pen  >}}](/assignments/presentations.html)       |
+|  3    | 1/20   | Welfare Effects of Health Insurance   | [{{< fa magnifying-glass >}}](/schedule/1-1.html)        |
+|  4    | 1/22   | Adverse Selection                     | [{{< fa magnifying-glass >}}](/schedule/1-2.html)        |
+|  5    | 1/27   | Competition and Market Structure      | [{{< fa magnifying-glass >}}](/schedule/1-3.html)        |
+|  6    | 1/29   | Public Insurance Design               | [{{< fa magnifying-glass >}}](/schedule/1-4.html)        |
+|       |        | **Select Empirical Exercise**         | [{{< fa pen  >}}](/assignments/empirical-exercises.html) |
+: {tbl-colwidths="\[10,15,35,20\]"}
 
 
-## Module 2: [Healthcare variation and physician agency](2-literature.qmd)
+## Module 2: [Physician Agency and Treatment Decisions](2-literature.qmd)
 
-| Class | Dates  | Topic                            | Details | Slides | Assignment |
-|:-----:|--------|----------------------------------|:-------:|:------:|:----------:|
-|  12   | 2/12   | Background                       | [{{< fa magnifying-glass >}}](/schedule/2-0.html)        |   [{{< fa person-chalkboard >}}](/slides/class12.html)    | | 
-|  13   | 2/14   | Variation and Agency             | [{{< fa magnifying-glass >}}](/schedule/2-1.html)        |   [{{< fa person-chalkboard >}}](/schedule/class13.html)    | | 
-|  14   | 2/16   | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals4.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  15   | 2/19   | Different Mechanisms of Agency   | [{{< fa magnifying-glass >}}](/schedule/2-2.html)        |   [{{< fa person-chalkboard >}}](/schedule/class15.html)    | | 
-|  16   | 2/21   | Different Dimensions of Agency   | [{{< fa magnifying-glass >}}](/schedule/2-3.html)        |   [{{< fa person-chalkboard >}}](/schedule/class16.html)    | | 
-|  17   | 2/23   | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals5.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
-
-
-## Module 3: [Pricing and competition](3-literature.qmd)
-
-| Class | Dates  | Topic                            | Details | Slides | Assignment |
-|:-----:|--------|----------------------------------|:-------:|:------:|:----------:|
-|  18   | 2/26   | Background                       | [{{< fa magnifying-glass >}}](/schedule/3-0.html)        |   [{{< fa person-chalkboard >}}](/slides/class18.html)    | |
-|  19   | 2/28   | Horizontal Integration           | [{{< fa magnifying-glass >}}](/schedule/3-1.html)        |   [{{< fa person-chalkboard >}}](/schedule/class19.html)    | | 
-|  20   | 3/1    | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals6.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  21   | 3/4    | Different Forms of Integration   | [{{< fa magnifying-glass >}}](/schedule/3-2.html)        |   [{{< fa person-chalkboard >}}](/schedule/class21.html)    | | 
-|  22   | 3/6    | Different Outcomes and Settings  | [{{< fa magnifying-glass >}}](/schedule/3-3.html)        |   [{{< fa person-chalkboard >}}](/schedule/class22.html)    | | 
-|  23   | 3/8    | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals7.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  7    | 2/3    | Physician Agency                      | [{{< fa magnifying-glass >}}](/schedule/2-0.html)        |
+|  8    | 2/5    | Financial Incentives                  | [{{< fa magnifying-glass >}}](/schedule/2-1.html)        |
+|       |        | **Research Proposal 1 Due**           | [{{< fa pen  >}}](/assignments/research-proposals.html)  |
+|  9    | 2/10   | Non-financial Incentives              | [{{< fa magnifying-glass >}}](/schedule/2-2.html)        |
+|  10   | 2/12   | Agency in Organizations and Teams     | [{{< fa magnifying-glass >}}](/schedule/2-3.html)        |
+: {tbl-colwidths="\[10,15,35,20\]"}
 
 
-## Module 4: [Information disclosure](4-literature.qmd)
+## Module 3: [Physician Learning and Technology Adoption](3-literature.qmd)
 
-| Class | Dates  | Topic                            | Details | Slides | Assignment |
-|:-----:|--------|----------------------------------|:-------:|:------:|:----------:|
-|  24   | 3/18   | Background                       | [{{< fa magnifying-glass >}}](/schedule/4-0.html)        |   [{{< fa person-chalkboard >}}](/slides/class24.html)    | |
-|  25   | 3/20   | Disclosure and Patient Choice    | [{{< fa magnifying-glass >}}](/schedule/4-1.html)        |   [{{< fa person-chalkboard >}}](/slides/class25-1.pdf)    | | 
-|  26   | 3/22   | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals8.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  27   | 3/25   | Disclosure and Provider Response | [{{< fa magnifying-glass >}}](/schedule/4-2.html)        |   [{{< fa person-chalkboard >}}](/slides/class27.html)    | | 
-|  28   | 3/27   | Disclosure of What and to Whom?  | [{{< fa magnifying-glass >}}](/schedule/4-3.html)        |   [{{< fa person-chalkboard >}}](/slides/class28.html)    | | 
-|  29   | 3/29   | **Research proposals**           | [{{< fa magnifying-glass >}}](/schedule/proposals9.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
-
-
-## Module 5: [Physician learning and technology adoption](5-literature.qmd)
-
-| Class | Dates | Topic                             | Details | Slides | Assignment |
-|:-----:|-------|-----------------------------------|:-------:|:------:|:----------:|
-|  30   | 4/1   | Background                        | [{{< fa magnifying-glass >}}](/schedule/5-0.html)         |   [{{< fa person-chalkboard >}}](/slides/class30.html)    | |
-|  31   | 4/3   | Myopic Learning                   | [{{< fa magnifying-glass >}}](/schedule/5-1.html)         |   [{{< fa person-chalkboard >}}](/slides/class31.html)    | | 
-|  32   | 4/5   | **Research proposals**            | [{{< fa magnifying-glass >}}](/schedule/proposals10.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-|  33   | 4/8   | Forward-looking Learning          | [{{< fa magnifying-glass >}}](/schedule/5-2.html)         |   [{{< fa person-chalkboard >}}](/slides/class33.html)    | | 
-|  34   | 4/10  | Learning and Technology Adoption  | [{{< fa magnifying-glass >}}](/schedule/5-3.html)         |   [{{< fa person-chalkboard >}}](/slides/class34.html)    | | 
-|  35   | 4/12  | **Research proposals**            | [{{< fa magnifying-glass >}}](/schedule/proposals11.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  11   | 2/17   | Learning under Uncertainty            | [{{< fa magnifying-glass >}}](/schedule/3-0.html)         |
+|  12   | 2/19   | Skill Accumulation                    | [{{< fa magnifying-glass >}}](/schedule/3-1.html)         |
+|  13   | 2/24   | Patient-Treatment Match Value         | [{{< fa magnifying-glass >}}](/schedule/3-2.html)         |
+|  14   | 2/26   | Learning from Others                  | [{{< fa magnifying-glass >}}](/schedule/3-3.html)         |
+|       |        | **Research Proposal 2 Due**           | [{{< fa pen  >}}](/assignments/research-proposals.html)   |
+: {tbl-colwidths="\[10,15,35,20\]"}
 
 
-## Module 6: [Waste and fraud](6-literature.qmd)
+## Module 4: [Hospital Competition and Pricing](4-literature.qmd)
 
-| Class | Dates | Topic                             | Details | Slides | Assignment |
-|:-----:|-------|-----------------------------------|:-------:|:------:|:----------:|
-|  36   | 4/15  | Background                        | [{{< fa magnifying-glass >}}](/schedule/6-0.html)         |   [{{< fa person-chalkboard >}}](/slides/class36.html)     | |
-|  37   | 4/17  | Sources of Waste                  | [{{< fa magnifying-glass >}}](/schedule/6-1.html)         |   [{{< fa person-chalkboard >}}](/slides/class37.html)     | | 
-|  38   | 4/19  | **Research proposals**            | [{{< fa magnifying-glass >}}](/schedule/proposals12.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html)  |
-|  39   | 4/22  | Fraud and Overuse                 | [{{< fa magnifying-glass >}}](/schedule/6-2.html)         |   [{{< fa person-chalkboard >}}](/slides/class39.html)     | | 
-|  40   | 4/24  | Strategies to Avoid Fraud         | [{{< fa magnifying-glass >}}](/schedule/6-3.html)         |   [{{< fa person-chalkboard >}}](/slides/class40.html)     | | 
-|  41   | 4/26  | **Research proposals**            | [{{< fa magnifying-glass >}}](/schedule/proposals13.html) | | [{{< fa pen  >}}](/assignments/research-proposals.html)  |
-|       |       | **Empirical exercises**           |                                                           | | [{{< fa pen  >}}](/assignments/empirical-exercises.html) |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  15   | 3/3    | Understanding Hospital Competition    | [{{< fa magnifying-glass >}}](/schedule/4-0.html)        |  
+|  16   | 3/5    | Competition in Reduced Form           | [{{< fa magnifying-glass >}}](/schedule/4-1.html)        |  
+|  17   | 3/17   | Bargaining and Hospital Pricing       | [{{< fa magnifying-glass >}}](/schedule/4-2.html)        |  
+|  18   | 3/19   | Cross-market Mergers                  | [{{< fa magnifying-glass >}}](/schedule/4-3.html)        |  
+|  19   | 3/24   | Vertical Integration                  | [{{< fa magnifying-glass >}}](/schedule/4-4.html)        |  
+: {tbl-colwidths="\[10,15,35,20\]"}
+
+
+## Module 5: [Information Disclosure and Transparency](5-literature.qmd)
+
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  20   | 3/26   | Basics of Information Disclosure      | [{{< fa magnifying-glass >}}](/schedule/5-0.html)        |
+|       |        | **Research Proposal 3 Due**           | [{{< fa pen  >}}](/assignments/research-proposals.html)  |
+|  21   | 3/31   | Physician Quality                     | [{{< fa magnifying-glass >}}](/schedule/5-1.html)        |
+|  22   | 4/2    | Insurance Ratings                     | [{{< fa magnifying-glass >}}](/schedule/5-2.html)        |
+|  23   | 4/7    | Price Transparency                    | [{{< fa magnifying-glass >}}](/schedule/5-3.html)        |
+: {tbl-colwidths="\[10,15,35,20\]"}
+
+
+## Module 6: Recent Job Market Papers
+
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  24   | 4/9    | JMPs from 2023                        | [{{< fa magnifying-glass >}}](/schedule/6-1.html)         |
+|  25   | 4/14   | JMPs from 2024                        | [{{< fa magnifying-glass >}}](/schedule/6-2.html)         |
+|  26   | 4/16   | JMPs from 2025                        | [{{< fa magnifying-glass >}}](/schedule/6-3.html)         |
+: {tbl-colwidths="\[10,15,35,20\]"}
 
 
 ## Final Research Plans
 
-| Class | Dates | Topic                             | Details | Slides | Assignment |
-|:-----:|-------|-----------------------------------|:-------:|:------:|:----------:|
-|  42   | 4/29  | **Research plans**                | [{{< fa magnifying-glass >}}](/schedule/proposals14.html) | | [{{< fa pen  >}}](/assignments/research-plans.html)      |
-: {tbl-colwidths="\[10,15,35,10,10,10\]"}
+| Class | Dates  | Topic                                 | Description |
+|:-----:|--------|---------------------------------------|:-----------:|
+|  27   | 4/21   | **Research Plans**                     | [{{< fa pen  >}}](/assignments/research-plans.html)      |
+|  28   | 4/23   | **Research Plans**                     | [{{< fa pen  >}}](/assignments/research-plans.html)      |
+|       |        | **Empirical Exercise Due**             | [{{< fa pen  >}}](/assignments/empirical-exercises.html) |
+: {tbl-colwidths="\[10,15,35,20\]"}
