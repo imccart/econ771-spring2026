@@ -57,9 +57,7 @@ Note that a presentation is not just a re-hashing of the paper in slide form. A 
 | Paper          | Main theme                               |
 | -------------- | ---------------------------------------- |
 | @ching2013     | Bayesian learning by physicians          |
-| @erdem1996     | Consumer learning and experience         |
 | @chan2013      | Dynamic learning and treatment choice    |
-| @chandra2007   | Learning and technology diffusion        |
 | @gong2018      | Peer effects in learning                 |
 | @comin2022     | Diffusion of medical technologies        |
 | @coscelli2004  | Physician learning with spillovers       |

@@ -10,6 +10,5 @@ More recent research expands the notion of learning from others to include forma
 
 Potential papers for presentation today include:
 
-- @chandra2007 — peer spillovers and productivity in medical practice
 - @agha2018 — the role of pioneer investigators in technology adoption
 - @dubois2021 — physician responses to scientific information and recommendations

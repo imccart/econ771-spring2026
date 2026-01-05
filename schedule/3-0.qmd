@@ -11,5 +11,4 @@ We introduce this literature using @ching2013, which reviews the development of 
 Potential papers for presentation today include:
 
 - @ching2013 — a synthesis of learning models and their empirical challenges
-- @erdem1996 — a canonical framework for dynamic decision-making under uncertainty
 - @chan2013 — a physician-focused model of learning about treatment effectiveness and side effects

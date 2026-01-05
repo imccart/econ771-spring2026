@@ -10,7 +10,6 @@ An important insight from this literature is that experience does not always lea
 
 Potential papers for presentation today include:
 
-- @chandra2007 — productivity spillovers and learning by doing in acute care
 - @gong2018 — joint learning by doing and Bayesian updating in treatment choice
 - @comin2022 — skill misperception, learning, and technology adoption
 
