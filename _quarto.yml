@@ -60,6 +60,7 @@ website:
         - assignments/research-proposals.qmd
         - assignments/presentations.qmd
         - assignments/empirical-exercises.qmd
+        - assignments/excellence-blueprint.qmd
 
     - title: "Empty"
       style: "docked"
