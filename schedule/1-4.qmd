@@ -15,5 +15,4 @@ Potential papers for presentation today include
 - @cabral2018 — subsidies, pass-through, and insurer incentives in Medicare Advantage
 - @curto2021 — competition and consumer outcomes in regulated insurance markets
 - @layton2019 — public versus private provision in health insurance
-- @geddes2023 or @curto2023 — expanding access and affordability
 

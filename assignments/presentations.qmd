@@ -34,9 +34,6 @@ Note that a presentation is not just a re-hashing of the paper in slide form. A 
 | @cabral2018         | Medicare Advantage incentives              |
 | @curto2021          | Competition in regulated insurance markets |
 | @layton2019         | Public versus private insurance provision  |
-| @geddes2023         | Expanding insurance access                 |
-| @curto2023          | Insurance affordability and market design  |
-
 
 ## Module 2: Physician Agency
 
@@ -44,16 +41,15 @@ Note that a presentation is not just a re-hashing of the paper in slide form. A 
 | ---------------- | ------------------------------------------ |
 | @finkelstein2016 | Provider incentives and patient outcomes   |
 | @badinski2023    | Physician decision-making under incentives |
-| @currie2016      | Physician behavior and treatment choice    |
 | @iizuka2012      | Financial incentives and prescribing       |
 | @clemens2014     | Physician supply responses to payment      |
 | @ho2014          | Organizational incentives and productivity |
+| @currie2016      | Physician behavior and treatment choice    |
 | @molitor2018     | Information frictions and treatment        |
 | @zeltzer2020     | Referral networks and physician behavior   |
-| @agha2022ms      | Team production and referral patterns      |
 | @gaynor2016      | Physician market power                     |
 | @eliason2018     | Ownership incentives and care decisions    |
-| @gruber2023      | Physician responses to payment reform      |
+| @gruber2023      | Treatment decisions and time constraints   |
 
 
 ## Module 3: Learning

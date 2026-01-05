@@ -13,6 +13,6 @@ Finally, agency is especially salient in settings where care is transferred or d
 
 Taken together, these papers show that physician agency cannot be understood solely at the individual level. Organizational structure and team-based decision-making are central to how care is delivered and how policy interventions ultimately operate. Potential papers for presentation today include:
 
-- @agha2022ms — referral networks and team structure
 - @gaynor2016 — physician influence on hospital choice
 - @eliason2018 — agency in institutional care settings
+- @gruber2023 - treatment decisions and time constraints
