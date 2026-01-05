@@ -96,7 +96,7 @@ Emory University<br>
 
 {{< fa calendar-alt >}} 1-13-2026 to 4-23-2026<br>
 {{< fa calendar >}} Tuesday, Thursday<br>
-{{< fa clock >}} 10:00am to 11:15am T/Th<br>
+{{< fa clock >}} 10:00am to 11:15am<br>
 {{< fa university >}} Ignatius Few 129
 
 :::

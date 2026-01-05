@@ -18,82 +18,95 @@ Note that a presentation is not just a re-hashing of the paper in slide form. A 
 
 ## Module 1: Insurance
 
-@aron-dine2013
-@finkelstein2012
-@brot-goldberg2023
-@hu2018
-@miller2021
-@finkelstein2019jpe
-@einav2010qje
-@handel2019
-@shepard2022
-@dafny2012
-@ho2017
-@cabral2018
-@curto2021
-@layton2019
-@geddes2023
-@curto2023
+| Paper               | Main theme                                 |
+| ------------------- | ------------------------------------------ |
+| @aron-dine2013      | Moral hazard and utilization responses     |
+| @finkelstein2012    | Medicaid coverage and health care use      |
+| @brot-goldberg2023  | Choice frictions and defaults              |
+| @hu2018             | Financial protection and household debt    |
+| @miller2021         | Insurance coverage and mortality           |
+| @finkelstein2019jpe | Welfare effects of Medicaid                |
+| @einav2010qje       | Empirical tests of adverse selection       |
+| @handel2019         | Inertia and policy interventions           |
+| @shepard2022        | Provider networks and selection            |
+| @dafny2012          | Insurer concentration and premiums         |
+| @ho2017             | Plan design and non-price competition      |
+| @cabral2018         | Medicare Advantage incentives              |
+| @curto2021          | Competition in regulated insurance markets |
+| @layton2019         | Public versus private insurance provision  |
+| @geddes2023         | Expanding insurance access                 |
+| @curto2023          | Insurance affordability and market design  |
+
 
 ## Module 2: Physician Agency
 
-@finkelstein2016
-@badinski2023
-@currie2016
-@iizuka2012
-@clemens2014
-@ho2014
-@molitor2018
-@zeltzer2020
-@agha2022ms
-@gaynor2016
-@eliason2018
-@gruber2023
+| Paper            | Main theme                                 |
+| ---------------- | ------------------------------------------ |
+| @finkelstein2016 | Provider incentives and patient outcomes   |
+| @badinski2023    | Physician decision-making under incentives |
+| @currie2016      | Physician behavior and treatment choice    |
+| @iizuka2012      | Financial incentives and prescribing       |
+| @clemens2014     | Physician supply responses to payment      |
+| @ho2014          | Organizational incentives and productivity |
+| @molitor2018     | Information frictions and treatment        |
+| @zeltzer2020     | Referral networks and physician behavior   |
+| @agha2022ms      | Team production and referral patterns      |
+| @gaynor2016      | Physician market power                     |
+| @eliason2018     | Ownership incentives and care decisions    |
+| @gruber2023      | Physician responses to payment reform      |
 
 
 ## Module 3: Learning
 
-@ching2013
-@erdem1996
-@chan2013
-@chandra2007
-@gong2018
-@comin2022
-@coscelli2004
-@crawford2005
-@currie2020
-@agha2018
-@dubois2021
-@dickstein2018
+| Paper          | Main theme                               |
+| -------------- | ---------------------------------------- |
+| @ching2013     | Bayesian learning by physicians          |
+| @erdem1996     | Consumer learning and experience         |
+| @chan2013      | Dynamic learning and treatment choice    |
+| @chandra2007   | Learning and technology diffusion        |
+| @gong2018      | Peer effects in learning                 |
+| @comin2022     | Diffusion of medical technologies        |
+| @coscelli2004  | Physician learning with spillovers       |
+| @crawford2005  | Learning and demand dynamics             |
+| @currie2020    | Learning and quality improvement         |
+| @agha2018      | Learning from referrals                  |
+| @dubois2021    | Learning and pharmaceutical adoption     |
+| @dickstein2018 | Learning and clinical practice variation |
+
 
 ## Module 4: Competition
 
-@dranove2000
-@gaynor2003
-@gaynor2015jel
-@kessler2000
-@dafny2009
-@cooper2019
-@gaynor2013
-@gowrisankaran2015
-@lewis2015
-@ho2017
-@dafny2019
-@schmitt2018
-@lewis2017
-@cuesta2019
-@koch2021
-@capps2018
+| Paper              | Main theme                            |
+| ------------------ | ------------------------------------- |
+| @dranove2000       | Hospital competition and quality      |
+| @gaynor2003        | Price competition in hospital markets |
+| @gaynor2015jel     | Review of competition in health care  |
+| @kessler2000       | Competition and treatment outcomes    |
+| @dafny2009         | Hospital mergers and prices           |
+| @cooper2019        | Out-of-network pricing                |
+| @gaynor2013        | Competition and quality effects       |
+| @gowrisankaran2015 | Structural bargaining models          |
+| @lewis2015         | Insurer–provider negotiations         |
+| @ho2017            | Network formation and competition     |
+| @dafny2019         | Cross-market mergers                  |
+| @schmitt2018       | Multimarket contact                   |
+| @lewis2017         | Hospital bargaining power             |
+| @cuesta2019        | Vertical integration effects          |
+| @koch2021          | Physician–hospital integration        |
+| @capps2018         | Hospital consolidation impacts        |
+
 
 ## Module 5: Disclosure
 
-@dranove2010
-@luco2019
-@dranove2003
-@kolstad2013
-@epstein2010
-@jin2006
-@darden2015
-@grennan2020
-@christensen2020
-@brown2019
+| Paper            | Main theme                         |
+| ---------------- | ---------------------------------- |
+| @dranove2010     | Quality disclosure and incentives  |
+| @luco2019        | Transparency and pricing behavior  |
+| @dranove2003     | Report cards and provider response |
+| @kolstad2013     | Information and patient choice     |
+| @epstein2010     | Public reporting and quality       |
+| @jin2006         | Disclosure and market outcomes     |
+| @darden2015      | Information and provider behavior  |
+| @grennan2020     | Price transparency and negotiation |
+| @christensen2020 | Disclosure and health care prices  |
+| @brown2019       | Consumer responses to transparency |

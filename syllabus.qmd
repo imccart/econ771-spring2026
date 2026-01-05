@@ -7,7 +7,7 @@ page-layout: full
   
 ## Course description
 
-This course explores the industrial organization of healthcare markets in the U.S., sometimes referred to as supply-side health economics or the economics of healthcare (to differentiate from the economics of health). We will focus on the following areas: health insurance, physician agency, healthcare pricing and competition, information disclosure, physician learning, and physician labor markets. As we cover some of the key papers in these areas, we will discuss and employ tools from the fields of empirical IO and causal inference. These methods will be discuseed as needed throughout the course, but students are expected to have a working knowledge of these methods prior to the start of the course. 
+This course explores the industrial organization of healthcare markets in the U.S., sometimes referred to as supply-side health economics or the economics of healthcare (to differentiate from the economics of health). We will focus on the following areas: health insurance, physician agency, physician learning, healthcare pricing and competition, and information disclosure. As we cover some of the key papers in these areas, we will discuss and employ tools from the fields of empirical IO and causal inference. These methods will be discuseed as needed throughout the course, but students are expected to have a working knowledge of these methods prior to the start of the course. 
 
 ## Learning outcomes
 
@@ -26,7 +26,7 @@ Our class times and your presentations are designed to help achieve the first go
 
 2. **Software:** For anything data related, I'll use `R`, but you are free to use whatever software you're most comfortable with in your empirical work. I encourage you to use `R`, `Stata`, or `Python` simply because these are the most common programs used in practice right now. You'll also need to have a basic working knowledge of Git and GitHub. If you're new to these tools, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/).
 
-3. **Slides and Notes:** Any presentations will be made available on our class website prior to any given class.
+3. **Slides and Notes:** All presentations will be made available on our class website or Canvas.
 
 ## Course policies
 
@@ -43,9 +43,7 @@ If you anticipate issues related to the format or requirements of this course, p
 
 ### Communication
 
-I will post regular announcements to the class on **Canvas**, so please set up your notifications on **Canvas** accordingly. I will also use **Canvas** to post all grades and any other information that needs to stay in the class (like our **Zoom** meeting link for virtual meetings, if needed). All other course materials will be available on our class website, [econ771s26.classes.ianmccarthyecon.com/](https://econ771s26.classes.ianmccarthyecon.com).
-
-Please feel free to reach out to me for any reason. I generally respond to all e-mails within 24 hours.
+I will post regular announcements to the class on **Canvas**, so please set up your notifications accordingly. I will also use **Canvas** to post all grades and any other information that needs to stay in the class (like our **Zoom** meeting link for virtual meetings, if needed). All other course materials will be available on our [class website](https://econ771s26.classes.ianmccarthyecon.com). Please feel free to reach out to me for any reason. I generally respond to all e-mails within 24 hours.
 
 
 ### Office Hours
@@ -71,18 +69,22 @@ Toward the end of the semester, I will meet with each of you (one-on-one) to dis
 
 ### Presentations
 
-You will present four papers throughout the course of the semester. Please note your selected papers and class dates on the **Presentations** tab of our shared Google Sheet no later than **Friday, January 16**. If you do not select papers by then, I'll have to assign papers unilaterally. The list of potential papers to present and details of the expectations for each presentation are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website.
+You will present four papers throughout the course of the semester. Please note your selected papers and class dates on the **presentations** tab of our shared Google Sheet no later than **Friday, January 16**. If you do not select papers by then, I'll have to assign papers unilaterally. The complete list of potential papers to present and details of the expectations for each presentation are available on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website. Please look to the [class schedule](https://econ771s26.classes.ianmccarthyecon.com/schedule) for a list of potential papers for each class day.
 
 ### Empirical Exercises
 
-There is an applied component of this course where we spend some time with a real-life causal inference question. These will require some of your time outside of class to get the data in working order and implement the relevant identification strategy and econometric estimator. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on **Canvas**, or simply through the paper's replication package online. There are four possible empirical exercises, from which you must choose one. Please note your selections no later than **Thursday, January 29**. 
+There is an applied component of this course where we spend some time with a real-life causal inference question. Raw data for each exercise will be provided on our class OneDrive notebook, the link to which is on **Canvas**, or simply through the paper's replication package online. There are four possible empirical exercises, from which you must choose one. Please note your selections on the **exercises** tab of our shared Google Sheet no later than **Thursday, January 29**. 
+
+### Excellence Blueprint
+
+Rather than writing a referee-style critique that emphasizes flaws, this assignment asks you to analyze what makes a published paper successful and influential. Your report should explain the specific research design choices and writing decisions that justify the paper’s publication and reputation, focusing on both the scientific contribution (question, identification, and fit in the literature) and the art of execution (motivation, structure, clarity, and policy relevance). The goal is to understand how strong papers persuade readers and advance the field—not how they could have been rejected. Details are avilable on the [assignments page](https://econ771s26.classes.ianmccarthyecon.com/assignments) of our class website. You can submit your excellence blueprint for one of the four papers that you select to present.
 
 ### Important Deadlines
 
 This section is just to highlight important dates for assignments throughout the semester. Note that late assignments will receive an automatic 5% reduction in the grade for each day the assignment is turned in after the due date.
 
-   - **Select Papers to Present** no later than **January 16**: Note the papers you plan to present on the **Presentations** tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.
-   - **Select Empirical Exercise** no later than **January 29**: Note your selection on the **Exercises** tab of our shared Google Sheet. No more than two students per exercise.
+   - **Select Papers to Present** no later than **January 16**: Note the papers you plan to present on the **presentations** tab of our shared Google Sheet (link available on Canvas). Only one student per paper, so this is first-come first-served. Remember you need to select four papers to present throughout the semester. Please spread these presentations out over the semester.
+   - **Select Empirical Exercise** no later than **January 29**: Note your selection on the **exercises** tab of our shared Google Sheet. No more than two students per exercise.
    - The first **Research Proposal** is due on **February 5**
    - The second **Research Proposal** is due on **February 26**
    - The **Excellence Blueprint** is due on **March 17**
