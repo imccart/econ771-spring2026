@@ -10,6 +10,5 @@ We introduce this literature by drawing on survey and review papers that synthes
 
 Potential papers for presentation today include:
 
-- @dranove2000 — a foundational overview of competition and market power in healthcare markets
 - @gaynor2003 — early conceptual and empirical analysis of hospital competition
 - @gaynor2015jel — a comprehensive synthesis of theory and evidence on hospital competition and pricing

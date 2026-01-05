@@ -2,20 +2,6 @@
 title: "Price Transparency"
 ---
 
-Good catch — **@grennan2020 absolutely belongs here**, and it actually *strengthens* this day conceptually.
-
-The key is to position it as **price transparency in bargaining environments**, not just posted-price transparency to consumers.
-
-Here’s the **revised Day 4**, with Grennan–Swanson integrated cleanly.
-
----
-
-```yaml
----
-title: "Price Transparency"
----
-```
-
 Unlike most goods markets, prices in healthcare are typically determined through negotiation rather than posted prices, and are often opaque to patients, providers, and even market participants themselves. Recent policy efforts aimed at increasing price transparency seek to reduce this opacity by making prices observable, with the goal of promoting competition and lowering spending. Whether transparency achieves these goals depends critically on how price information enters bargaining, demand, and strategic interaction.
 
 The literature on price transparency emphasizes that disclosure can have ambiguous effects in markets with imperfect competition. Transparency may shift patient demand or referral patterns, but it can also alter bargaining positions, outside options, and negotiated prices between firms. As a result, transparency can intensify competition in some settings while facilitating coordination or redistributing surplus in others. Understanding these effects requires attention to equilibrium responses and institutional detail.

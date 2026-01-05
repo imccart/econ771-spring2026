@@ -72,16 +72,14 @@ Note that a presentation is not just a re-hashing of the paper in slide form. A 
 
 | Paper              | Main theme                            |
 | ------------------ | ------------------------------------- |
-| @dranove2000       | Hospital competition and quality      |
 | @gaynor2003        | Price competition in hospital markets |
 | @gaynor2015jel     | Review of competition in health care  |
 | @kessler2000       | Competition and treatment outcomes    |
 | @dafny2009         | Hospital mergers and prices           |
-| @cooper2019        | Out-of-network pricing                |
 | @gaynor2013        | Competition and quality effects       |
 | @gowrisankaran2015 | Structural bargaining models          |
 | @lewis2015         | Insurer–provider negotiations         |
-| @ho2017            | Network formation and competition     |
+| @ho2019            | Network formation and competition     |
 | @dafny2019         | Cross-market mergers                  |
 | @schmitt2018       | Multimarket contact                   |
 | @lewis2017         | Hospital bargaining power             |

@@ -12,7 +12,7 @@ Potential papers for presentation today include:
 
 - @gowrisankaran2015 — a canonical model of insurer–hospital bargaining and negotiated prices
 - @lewis2015 — evidence on bargaining power and system-level pricing effects
-- @ho2017 — integration of bargaining models with insurance market structure
+- @ho2019 — bargaining with threats of exclusion
 
 
 
