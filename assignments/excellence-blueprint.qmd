@@ -18,4 +18,4 @@ Your analysis must answer the core question: What specific choices, in both rese
     - *Clarity and Structure:* Evaluate the overall narrative flow. How do the authors simplify and present complex econometric analyses? Identify specific structural elements (e.g., headings, figures, tables) that enhance clarity and guide the reader through the evidence without sacrificing technical precision.
     - *The Policy Takeaway:* Analyze the conclusion and/or discussion sections. How do the authors move from specific empirical findings to a broader, impactful policy implication? Explain how the discussion ensures the paper's findings are memorable and actionable.
 
-Your final product should be no longer than 4 pages (double-spaced, 11 point font, 1 inch margins), not including a bibliography.
+Your final product should be no longer than 4 pages (double-spaced, 11 point font, 1 inch margins), not including a bibliography. Please submit your final report in Canvas by **March 17**.

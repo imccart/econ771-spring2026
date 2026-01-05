@@ -1,14 +1,13 @@
 ---
-title: "Research Proposals"
+title: "Research Proposals and Plan"
 # format:
 #   pdf: default
 ---
 
-The research proposal is a starting point for a research project. It’s a basic structure that can help you think through specific aspects of a new project and begin to assess its viability and its potential contribution. Each proposal is worth 10 points toward your final grade, 8 points for the written proposal and 2 points for the presentation. The written proposal should be 2 pages, double-spaced, 12-point font, 1-inch margins, and the presentation should be 10-15 minutes and no more than 5 slides. 
+## Research Proposal
+The research proposal is a starting point for a research project. It’s a basic structure that can help you think through specific aspects of a new project and begin to assess its viability and its potential contribution. Each proposal is worth 10 points toward your final grade and should be 2 pages (not including a bibliography), double-spaced, with 12-point font and 1-inch margins. You'll submit three proposals thoughout the semester (due dates of February 5, February 26, and March 26).
 
-You'll present four proposals thoughout the semester. Please pick dates for each proposal and sign up on the **Proposals** tab of the Google Sheet [here](https://docs.google.com/spreadsheets/d/19LovendEZg3Qk_5Wgy-we_9owO8sPnseU5blbik86MI/edit?usp=sharing) by **January 26**. Note that you have to pick one date for each proposal, so you can really only choose between three days for each proposal. All written proposals and presentations are due via **Canvas** by the first due date in each block (2/2, 2/23, 3/22, and 4/12). So if you select 2/9 as your presentation date for the first proposal, you still have to submit your written proposal and presentation slides by 2/2. This is just to ensure a common due date for everyone.
-
-For our purposes, a research proposal should consist of a two-page report and a 10-15 minute presentation addressing the following four points:
+Each research proposal should consist of the following sections, with each section worth 2 points toward the proposal grade. An additional 2 points apply to meeting the formatting requirements.
 
 ### What is your research question?
 This should be formulated as an input-output question, e.g., I’m interested in studying the effects of T on Y, or I’m interested in understanding the association between X and Y. While there are many types of research questions, in general your question should satisfy three key criteria (adapted from Jesse Shapiro’s “Four Steps to an Applied Micro Paper”)
@@ -26,3 +25,13 @@ Your research question should be specific enough so that you are able to write d
 ### What is the data and source of variation used for identification?
 You must provide a detailed description of the data that you plan to use to estimate the model and answer the research question.  This must include a discussion of where the variation in the data is coming from, why is it credible, and how it maps onto the research question. You don’t need to have the data yet, but you need to know it exists and how to access it. The data must also be accessible in a reasonable time period. Course instructors are expected to verify the existence and feasibility of obtaining the data.
 
+## Research Plan
+Your research plan consists of a three-page report addressing the following five points:
+
+1.	**What is your research question?** (from research proposal)
+2.	**What is the hook?** (from research proposal)
+3.	**What is your economic model?** (from research proposal)
+4.	**What is the data and source of variation used for identification?** (from research proposal)
+5.	**What is the value-added?** Given points (1) to (4), what do we know in the literature about this problem? What are the relevant papers when it comes to the topic, methods, and data? How exactly do you contribute to the literature, above and beyond what was already done. Note that doing the same thing for a different population or using different methods or different data is not exciting unless the hook is related to the specific population, data, method, etc. The research plan is therefore an extension of the research proposal that includes the equivalent of a small-scale literature review.
+
+The research plan is worth 10 points toward your final grade (2 points per section of the report). It is due via **Canvas** on April 21. You will also present your final research plan to the class on April 21 and April 23.

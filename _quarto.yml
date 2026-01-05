@@ -58,7 +58,6 @@ website:
       contents:
         - assignments/index.qmd
         - assignments/research-proposals.qmd
-        - assignments/research-plans.qmd
         - assignments/presentations.qmd
         - assignments/empirical-exercises.qmd
 

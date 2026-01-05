@@ -61,7 +61,8 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 |:-----:|--------|---------------------------------------|:-----------:|
 |  15   | 3/3    | Understanding Hospital Competition    | [{{< fa magnifying-glass >}}](/schedule/4-0.html)        |  
 |  16   | 3/5    | Competition in Reduced Form           | [{{< fa magnifying-glass >}}](/schedule/4-1.html)        |  
-|  17   | 3/17   | Bargaining and Hospital Pricing       | [{{< fa magnifying-glass >}}](/schedule/4-2.html)        |  
+|  17   | 3/17   | Bargaining and Hospital Pricing       | [{{< fa magnifying-glass >}}](/schedule/4-2.html)        | 
+|       |        | **Excellence Blueprint Due**          | [{{< fa pen  >}}](/assignments/excellence-blueprint.html)   | 
 |  18   | 3/19   | Cross-market Mergers                  | [{{< fa magnifying-glass >}}](/schedule/4-3.html)        |  
 |  19   | 3/24   | Vertical Integration                  | [{{< fa magnifying-glass >}}](/schedule/4-4.html)        |  
 : {tbl-colwidths="\[10,15,35,20\]"}
