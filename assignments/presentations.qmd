@@ -2,9 +2,9 @@
 title: "Presentations"
 ---
 
-Please review the [class schedule](../schedule/) and select four papers from the list of topics in each class, excluding any "background" classes. Your selections must also be on different dates. Once you've identified your papers, note your paper(s) title, authors, your name, and the date of your presentation on the **Presentations** tab of our shared Google Sheet (available on Canvas). Please note your selections no later than **January 16**. 
+Please review the [class schedule](../schedule/) and select four papers from the list of topics in each class. Once you've identified your papers, note your selection and date on the **Presentations** tab of our shared Google Sheet (available on Canvas). Please note your selections no later than **January 16**, and please ensure no more than one student is signed up to present on any given day. 
 
-We will focus on one paper per class day, so you should prepare for a 60 minute presentation. Please follow a standard seminar setup. Please also prepare two discussion questions to lead a 10-15 minute discussion after your presentation. Please submit your presentations via **Canvas** prior to your in-class submisson.
+Your presentation should be around 60 minutes, following a standard seminar setup. Please also prepare two discussion questions to lead a 10-15 minute discussion after your presentation. Please submit your presentations via **Canvas** prior to your in-class time.
 
 Your presentation should be no more than 50 slides (including a title slide and your discussion questions at the end). Each presentation is worth 5 points toward your final grade, with one point allocated to each of the following categories:
 
@@ -14,7 +14,9 @@ Your presentation should be no more than 50 slides (including a title slide and 
 - **Figures and Tables:** your presentation must have at least 5 figures.
 - **Discussion questions:** the discussion questions should be clear and thought-provoking. Please conclude your presentation with a final slide listing these questions.
 
-Note that a presentation is not just a re-hashing of the paper in slide form. A good academic presentation should have as little information as possible on each slide, and the content on the slides doesn't necessarily need to follow that of the paper. For example, in a real-time environment, it is much easier to move between different aspects of the empirical analysis and data. Below are lists of candidate papers for presentation for each module. These are also listed in the shared spreadsheet (on Canvas) from which you can formally indicate your selections.
+Note that a presentation is not just a re-hashing of the paper in slide form. A good academic presentation should have as little text as possible on each slide, and the content on the slides doesn't necessarily need to follow that of the paper. For example, in a real-time environment, it is much easier to move between different aspects of the empirical analysis and data. Below are lists of candidate papers for presentation for each module. These are also listed in the shared spreadsheet (on Canvas) from which you can formally indicate your selections.
+
+In addition to these 4 graded presentations, I expect everyone to present and discuss recent job market papers toward the end of the semester (Module 6). While ungraded, these JMP presentations will help everyone better understand the quality and rigor of recent top job market papers in our field.
 
 ## Module 1: Insurance
 
