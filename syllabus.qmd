@@ -1,8 +1,8 @@
 ---
 title: "Syllabus"
 page-layout: full
-#format:
-#  pdf: default
+# format:
+#   pdf: default
 ---
   
 ## Course description
@@ -49,7 +49,6 @@ I will post regular announcements to the class on **Canvas**, so please set up y
 ### Office Hours
 
 My designated office hours are 1:00-2:30pm on Tuesday and Thursday in R418 of the R. Randall Rollins building. I'm happy to meet outside of normal office hours as well. Please feel free to schedule another time to meet by following the link to select a time that works for you, [https://mccarthy-meetings.youcanbook.me](https://mccarthy-meetings.youcanbook.me). Unless otherwise noted, all meetings will be held in my office. If you need to meet virtually, please let me know and I'll send you a **Zoom** link.
-
 
 ### Attendance
 
