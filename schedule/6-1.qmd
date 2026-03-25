@@ -1,0 +1,21 @@
+---
+title: "Medicare Monitoring and Administrative Burden"
+---
+
+Today's papers both examine the administrative side of Medicare, asking how monitoring and claim processing shape provider behavior and spending. Shi studies a large-scale Medicare audit program and finds that monitoring generates substantial savings, primarily through deterrence rather than direct recoupment. League studies exogenous changes in Medicare claim-processing jurisdictions and shows that higher denial rates induce providers to invest in billing technology and consolidate into larger practices, fully offsetting the intended spending reductions. Together, the papers illustrate how administrative mechanisms, often treated as background institutional detail, can have first-order effects on healthcare costs and market structure.
+
+### Maggie Shi — "Monitoring for Waste: Evidence from Medicare Audits"
+
+- **PhD**: Columbia University, 2022
+- **Placement**: Assistant Professor, University of Chicago Harris School of Public Policy
+- **Paper**: [Monitoring for Waste: Evidence from Medicare Audits](https://academic.oup.com/qje/article-abstract/139/2/993/7285817), *Quarterly Journal of Economics*, 139(2): 993--1049, 2024
+
+Shi examines a Medicare program that audited hospital stays for medical necessity. Every dollar spent on monitoring generated \$24--29 in government savings, with the majority coming from deterrence of future care rather than direct recoupment of past payments. Monitoring increased provider administrative costs but did not harm patient health, suggesting it primarily deters low-value care. The paper highlights that the deterrence channel, often difficult to measure, can dominate the direct enforcement channel in the design of oversight programs.
+
+### Riley League — "Administrative Burden and Consolidation in Health Care"
+
+- **PhD**: Duke University, 2023
+- **Placement**: Assistant Professor of Finance, University of Illinois Urbana-Champaign (Gies College of Business)
+- **Paper**: [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.com/publications/MAC_effect), *Working Paper*
+
+League uses exogenous changes to the jurisdictions of Medicare Administrative Contractors to show that increases in claim denials cause providers to invest in billing technology and consolidate into larger practices. These endogenous responses fully offset the mechanical reduction in Medicare spending from higher denial rates. The paper estimates billing costs at \$89 billion annually and demonstrates that administrative burden is not just a cost but a force shaping market structure through its differential impact on small versus large providers.

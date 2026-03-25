@@ -80,13 +80,13 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 : {tbl-colwidths="\[10,15,35,20\]"}
 
 
-## Module 6: Recent Job Market Papers
+## Module 6: [Recent Job Market Papers](6-jmp.qmd)
 
 | Class | Dates  | Topic                                 | Description |
 |:-----:|--------|---------------------------------------|:-----------:|
-|  24   | 4/9    | JMPs from 2023                        | [{{< fa magnifying-glass >}}](/schedule/6-1.html)         |
-|  25   | 4/14   | JMPs from 2024                        | [{{< fa magnifying-glass >}}](/schedule/6-2.html)         |
-|  26   | 4/16   | JMPs from 2025                        | [{{< fa magnifying-glass >}}](/schedule/6-3.html)         |
+|  24   | 4/9    | Discuss Recent JMPs                   | [{{< fa magnifying-glass >}}](/schedule/6-1.html)         |
+|  25   | 4/14   | Discuss Recent JMPs                   | [{{< fa magnifying-glass >}}](/schedule/6-2.html)         |
+|  26   | 4/16   | Discuss Recent JMPs                   | [{{< fa magnifying-glass >}}](/schedule/6-3.html)         |
 : {tbl-colwidths="\[10,15,35,20\]"}
 
 

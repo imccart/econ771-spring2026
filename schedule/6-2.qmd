@@ -1,0 +1,21 @@
+---
+title: "Market Structure and Provider Sorting"
+---
+
+Today's papers study how market structure shapes equilibrium outcomes in healthcare, focusing on the supply side. Serna examines what happens when a major insurer exits a market, tracing the effects through to contract structure and provider bargaining. Mourot estimates the joint production function of surgeons and hospitals, asking whether high-quality providers are complements or substitutes. Both papers push beyond reduced-form estimates of competition to study the mechanisms through which market structure affects care delivery.
+
+### Natalia Serna — "Exogenous Exits, Market Structure, and Equilibrium Contracts"
+
+- **PhD**: University of Wisconsin--Madison, 2023
+- **Placement**: Assistant Professor of Health Policy, Stanford University School of Medicine
+- **Paper**: [Exogenous Exits, Market Structure, and Equilibrium Contracts in Health Care](https://www.aeaweb.org/articles?id=10.1257/aeri.20240155), *American Economic Review: Insights*, 7(3): 325--339, 2025
+
+Serna quantifies the causal effects of a major health insurer's exit from the Colombian market on contract structure and market outcomes. She finds that insurer exits shift equilibrium contracts from capitation toward fee-for-service, with larger effects in markets where providers have greater bargaining leverage relative to insurers. The paper provides rare empirical evidence on how competitive structure determines the form of provider contracts, connecting industrial organization to the theory of incomplete contracts in healthcare.
+
+### Pauline Mourot — "Should Top Surgeons Practice at Top Hospitals?"
+
+- **PhD**: University of Chicago Booth School of Business, 2024
+- **Placement**: Assistant Professor of Economics, Boston University
+- **Paper**: [Should Top Surgeons Practice at Top Hospitals? Sorting and Complementarities in Healthcare](https://www.paulinemourot.com/), *Working Paper*
+
+Mourot estimates the joint production function of patient survival between cardiac surgeons and hospitals using Medicare data on coronary artery bypass graft (CABG) surgery. She finds positive assortative matching in the data (high-survival surgeons tend to work at high-survival hospitals), but that surgeons and hospitals are *substitutes*, not complements. Low-survival surgeons gain far more from practicing at high-survival hospitals than high-survival surgeons do. The paper argues that substantial mortality gains could be achieved by reallocating surgeons across hospitals within regions.

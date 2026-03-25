@@ -1,0 +1,21 @@
+---
+title: "Insurance Design and Consumer Choice"
+---
+
+Today's papers both study health insurance markets from the consumer's perspective, asking how plan design and rationing mechanisms affect welfare. Wagner studies the optimal design of choice menus when insurance plans differ along multiple dimensions simultaneously. Russo studies wait-time rationing in the VA, comparing it to price-based alternatives. Both papers combine structural modeling with policy-relevant counterfactuals, illustrating how modern empirical tools can inform the design of public insurance programs.
+
+### Myles Wagner — "Health Insurance Menu Design with Multi-Dimensional Plans"
+
+- **PhD**: Harvard University, 2023
+- **Placement**: Assistant Professor of Economics, Ohio State University
+- **Paper**: [Health Insurance Menu Design with Multi-Dimensional Plans: Evidence from ACA Insurance Exchanges](https://scholar.harvard.edu/mnwagner/research-papers), *Working Paper*
+
+Wagner studies the optimal design of choice menus in health insurance markets where plans differ along multiple dimensions simultaneously, such as out-of-pocket generosity and provider network quality. In standard models, a regulator can screen consumers along a single dimension by offering a menu of plans that vary only in generosity. Wagner shows that when plans differ on multiple dimensions, the design problem becomes substantially more complex, and the standard intuitions from one-dimensional screening may not apply. The paper develops and estimates a model using ACA exchange data and explores how offering multi-dimensional tradeoffs can provide more efficient and stable consumer choice.
+
+### Anna Russo — "Waiting or Paying for Healthcare"
+
+- **PhD**: MIT, 2024
+- **Placement**: Junior Fellow, Harvard Society of Fellows; Assistant Professor of Economics, Harvard University (starting 2026)
+- **Paper**: [Waiting or Paying for Healthcare: Evidence from the Veterans Health Administration](https://annarusso.github.io/papers/russo_wait.pdf), *Working Paper (conditionally accepted, American Economic Review)*
+
+Russo studies wait-time rationing in the VA healthcare system using variation induced by the Choice Act, which subsidized veterans' access to non-VA providers. She finds that rationing via wait times redistributes access toward lower-SES veterans but at a large efficiency cost (approximately 23%). A targeted increase in copayments would generate greater consumer surplus than the Choice Act at lower public cost. The paper provides one of the first empirical comparisons of price-based versus time-based rationing in a major public healthcare system. Winner of the 2025 ASHEcon Student Paper Award.
